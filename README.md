@@ -132,7 +132,7 @@ poetry-sudoku-solver generate-problem-package ./problem.txt
 ```
 
 Run Poetry's dependency resolver. This will pin each package to a specific
-version that represets the value of each Sudoku cell.
+version that represents the value of each Sudoku cell.
 
 ```bash
 cd output/problem && poetry update --lock
