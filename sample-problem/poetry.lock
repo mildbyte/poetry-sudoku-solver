@@ -1,0 +1,3163 @@
+[[package]]
+name = "sudoku-cell11"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=4.0.0"
+sudoku-cell13 = "!=4.0.0"
+sudoku-cell14 = "!=4.0.0"
+sudoku-cell15 = "!=4.0.0"
+sudoku-cell16 = "!=4.0.0"
+sudoku-cell17 = "!=4.0.0"
+sudoku-cell18 = "!=4.0.0"
+sudoku-cell19 = "!=4.0.0"
+sudoku-cell21 = "!=4.0.0"
+sudoku-cell22 = "!=4.0.0"
+sudoku-cell23 = "!=4.0.0"
+sudoku-cell31 = "!=4.0.0"
+sudoku-cell32 = "!=4.0.0"
+sudoku-cell33 = "!=4.0.0"
+sudoku-cell41 = "!=4.0.0"
+sudoku-cell51 = "!=4.0.0"
+sudoku-cell61 = "!=4.0.0"
+sudoku-cell71 = "!=4.0.0"
+sudoku-cell81 = "!=4.0.0"
+sudoku-cell91 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell12"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=2.0.0"
+sudoku-cell13 = "!=2.0.0"
+sudoku-cell14 = "!=2.0.0"
+sudoku-cell15 = "!=2.0.0"
+sudoku-cell16 = "!=2.0.0"
+sudoku-cell17 = "!=2.0.0"
+sudoku-cell18 = "!=2.0.0"
+sudoku-cell19 = "!=2.0.0"
+sudoku-cell21 = "!=2.0.0"
+sudoku-cell22 = "!=2.0.0"
+sudoku-cell23 = "!=2.0.0"
+sudoku-cell31 = "!=2.0.0"
+sudoku-cell32 = "!=2.0.0"
+sudoku-cell33 = "!=2.0.0"
+sudoku-cell42 = "!=2.0.0"
+sudoku-cell52 = "!=2.0.0"
+sudoku-cell62 = "!=2.0.0"
+sudoku-cell72 = "!=2.0.0"
+sudoku-cell82 = "!=2.0.0"
+sudoku-cell92 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell13"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=1.0.0"
+sudoku-cell12 = "!=1.0.0"
+sudoku-cell14 = "!=1.0.0"
+sudoku-cell15 = "!=1.0.0"
+sudoku-cell16 = "!=1.0.0"
+sudoku-cell17 = "!=1.0.0"
+sudoku-cell18 = "!=1.0.0"
+sudoku-cell19 = "!=1.0.0"
+sudoku-cell21 = "!=1.0.0"
+sudoku-cell22 = "!=1.0.0"
+sudoku-cell23 = "!=1.0.0"
+sudoku-cell31 = "!=1.0.0"
+sudoku-cell32 = "!=1.0.0"
+sudoku-cell33 = "!=1.0.0"
+sudoku-cell43 = "!=1.0.0"
+sudoku-cell53 = "!=1.0.0"
+sudoku-cell63 = "!=1.0.0"
+sudoku-cell73 = "!=1.0.0"
+sudoku-cell83 = "!=1.0.0"
+sudoku-cell93 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell14"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=8.0.0"
+sudoku-cell12 = "!=8.0.0"
+sudoku-cell13 = "!=8.0.0"
+sudoku-cell15 = "!=8.0.0"
+sudoku-cell16 = "!=8.0.0"
+sudoku-cell17 = "!=8.0.0"
+sudoku-cell18 = "!=8.0.0"
+sudoku-cell19 = "!=8.0.0"
+sudoku-cell24 = "!=8.0.0"
+sudoku-cell25 = "!=8.0.0"
+sudoku-cell26 = "!=8.0.0"
+sudoku-cell34 = "!=8.0.0"
+sudoku-cell35 = "!=8.0.0"
+sudoku-cell36 = "!=8.0.0"
+sudoku-cell44 = "!=8.0.0"
+sudoku-cell54 = "!=8.0.0"
+sudoku-cell64 = "!=8.0.0"
+sudoku-cell74 = "!=8.0.0"
+sudoku-cell84 = "!=8.0.0"
+sudoku-cell94 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell15"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=5.0.0"
+sudoku-cell12 = "!=5.0.0"
+sudoku-cell13 = "!=5.0.0"
+sudoku-cell14 = "!=5.0.0"
+sudoku-cell16 = "!=5.0.0"
+sudoku-cell17 = "!=5.0.0"
+sudoku-cell18 = "!=5.0.0"
+sudoku-cell19 = "!=5.0.0"
+sudoku-cell24 = "!=5.0.0"
+sudoku-cell25 = "!=5.0.0"
+sudoku-cell26 = "!=5.0.0"
+sudoku-cell34 = "!=5.0.0"
+sudoku-cell35 = "!=5.0.0"
+sudoku-cell36 = "!=5.0.0"
+sudoku-cell45 = "!=5.0.0"
+sudoku-cell55 = "!=5.0.0"
+sudoku-cell65 = "!=5.0.0"
+sudoku-cell75 = "!=5.0.0"
+sudoku-cell85 = "!=5.0.0"
+sudoku-cell95 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell16"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=9.0.0"
+sudoku-cell12 = "!=9.0.0"
+sudoku-cell13 = "!=9.0.0"
+sudoku-cell14 = "!=9.0.0"
+sudoku-cell15 = "!=9.0.0"
+sudoku-cell17 = "!=9.0.0"
+sudoku-cell18 = "!=9.0.0"
+sudoku-cell19 = "!=9.0.0"
+sudoku-cell24 = "!=9.0.0"
+sudoku-cell25 = "!=9.0.0"
+sudoku-cell26 = "!=9.0.0"
+sudoku-cell34 = "!=9.0.0"
+sudoku-cell35 = "!=9.0.0"
+sudoku-cell36 = "!=9.0.0"
+sudoku-cell46 = "!=9.0.0"
+sudoku-cell56 = "!=9.0.0"
+sudoku-cell66 = "!=9.0.0"
+sudoku-cell76 = "!=9.0.0"
+sudoku-cell86 = "!=9.0.0"
+sudoku-cell96 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell17"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=6.0.0"
+sudoku-cell12 = "!=6.0.0"
+sudoku-cell13 = "!=6.0.0"
+sudoku-cell14 = "!=6.0.0"
+sudoku-cell15 = "!=6.0.0"
+sudoku-cell16 = "!=6.0.0"
+sudoku-cell18 = "!=6.0.0"
+sudoku-cell19 = "!=6.0.0"
+sudoku-cell27 = "!=6.0.0"
+sudoku-cell28 = "!=6.0.0"
+sudoku-cell29 = "!=6.0.0"
+sudoku-cell37 = "!=6.0.0"
+sudoku-cell38 = "!=6.0.0"
+sudoku-cell39 = "!=6.0.0"
+sudoku-cell47 = "!=6.0.0"
+sudoku-cell57 = "!=6.0.0"
+sudoku-cell67 = "!=6.0.0"
+sudoku-cell77 = "!=6.0.0"
+sudoku-cell87 = "!=6.0.0"
+sudoku-cell97 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell18"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=3.0.0"
+sudoku-cell12 = "!=3.0.0"
+sudoku-cell13 = "!=3.0.0"
+sudoku-cell14 = "!=3.0.0"
+sudoku-cell15 = "!=3.0.0"
+sudoku-cell16 = "!=3.0.0"
+sudoku-cell17 = "!=3.0.0"
+sudoku-cell19 = "!=3.0.0"
+sudoku-cell27 = "!=3.0.0"
+sudoku-cell28 = "!=3.0.0"
+sudoku-cell29 = "!=3.0.0"
+sudoku-cell37 = "!=3.0.0"
+sudoku-cell38 = "!=3.0.0"
+sudoku-cell39 = "!=3.0.0"
+sudoku-cell48 = "!=3.0.0"
+sudoku-cell58 = "!=3.0.0"
+sudoku-cell68 = "!=3.0.0"
+sudoku-cell78 = "!=3.0.0"
+sudoku-cell88 = "!=3.0.0"
+sudoku-cell98 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell19"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=7.0.0"
+sudoku-cell12 = "!=7.0.0"
+sudoku-cell13 = "!=7.0.0"
+sudoku-cell14 = "!=7.0.0"
+sudoku-cell15 = "!=7.0.0"
+sudoku-cell16 = "!=7.0.0"
+sudoku-cell17 = "!=7.0.0"
+sudoku-cell18 = "!=7.0.0"
+sudoku-cell27 = "!=7.0.0"
+sudoku-cell28 = "!=7.0.0"
+sudoku-cell29 = "!=7.0.0"
+sudoku-cell37 = "!=7.0.0"
+sudoku-cell38 = "!=7.0.0"
+sudoku-cell39 = "!=7.0.0"
+sudoku-cell49 = "!=7.0.0"
+sudoku-cell59 = "!=7.0.0"
+sudoku-cell69 = "!=7.0.0"
+sudoku-cell79 = "!=7.0.0"
+sudoku-cell89 = "!=7.0.0"
+sudoku-cell99 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell21"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=3.0.0"
+sudoku-cell12 = "!=3.0.0"
+sudoku-cell13 = "!=3.0.0"
+sudoku-cell22 = "!=3.0.0"
+sudoku-cell23 = "!=3.0.0"
+sudoku-cell24 = "!=3.0.0"
+sudoku-cell25 = "!=3.0.0"
+sudoku-cell26 = "!=3.0.0"
+sudoku-cell27 = "!=3.0.0"
+sudoku-cell28 = "!=3.0.0"
+sudoku-cell29 = "!=3.0.0"
+sudoku-cell31 = "!=3.0.0"
+sudoku-cell32 = "!=3.0.0"
+sudoku-cell33 = "!=3.0.0"
+sudoku-cell41 = "!=3.0.0"
+sudoku-cell51 = "!=3.0.0"
+sudoku-cell61 = "!=3.0.0"
+sudoku-cell71 = "!=3.0.0"
+sudoku-cell81 = "!=3.0.0"
+sudoku-cell91 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell22"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=7.0.0"
+sudoku-cell12 = "!=7.0.0"
+sudoku-cell13 = "!=7.0.0"
+sudoku-cell21 = "!=7.0.0"
+sudoku-cell23 = "!=7.0.0"
+sudoku-cell24 = "!=7.0.0"
+sudoku-cell25 = "!=7.0.0"
+sudoku-cell26 = "!=7.0.0"
+sudoku-cell27 = "!=7.0.0"
+sudoku-cell28 = "!=7.0.0"
+sudoku-cell29 = "!=7.0.0"
+sudoku-cell31 = "!=7.0.0"
+sudoku-cell32 = "!=7.0.0"
+sudoku-cell33 = "!=7.0.0"
+sudoku-cell42 = "!=7.0.0"
+sudoku-cell52 = "!=7.0.0"
+sudoku-cell62 = "!=7.0.0"
+sudoku-cell72 = "!=7.0.0"
+sudoku-cell82 = "!=7.0.0"
+sudoku-cell92 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell23"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=9.0.0"
+sudoku-cell12 = "!=9.0.0"
+sudoku-cell13 = "!=9.0.0"
+sudoku-cell21 = "!=9.0.0"
+sudoku-cell22 = "!=9.0.0"
+sudoku-cell24 = "!=9.0.0"
+sudoku-cell25 = "!=9.0.0"
+sudoku-cell26 = "!=9.0.0"
+sudoku-cell27 = "!=9.0.0"
+sudoku-cell28 = "!=9.0.0"
+sudoku-cell29 = "!=9.0.0"
+sudoku-cell31 = "!=9.0.0"
+sudoku-cell32 = "!=9.0.0"
+sudoku-cell33 = "!=9.0.0"
+sudoku-cell43 = "!=9.0.0"
+sudoku-cell53 = "!=9.0.0"
+sudoku-cell63 = "!=9.0.0"
+sudoku-cell73 = "!=9.0.0"
+sudoku-cell83 = "!=9.0.0"
+sudoku-cell93 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell24"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=6.0.0"
+sudoku-cell15 = "!=6.0.0"
+sudoku-cell16 = "!=6.0.0"
+sudoku-cell21 = "!=6.0.0"
+sudoku-cell22 = "!=6.0.0"
+sudoku-cell23 = "!=6.0.0"
+sudoku-cell25 = "!=6.0.0"
+sudoku-cell26 = "!=6.0.0"
+sudoku-cell27 = "!=6.0.0"
+sudoku-cell28 = "!=6.0.0"
+sudoku-cell29 = "!=6.0.0"
+sudoku-cell34 = "!=6.0.0"
+sudoku-cell35 = "!=6.0.0"
+sudoku-cell36 = "!=6.0.0"
+sudoku-cell44 = "!=6.0.0"
+sudoku-cell54 = "!=6.0.0"
+sudoku-cell64 = "!=6.0.0"
+sudoku-cell74 = "!=6.0.0"
+sudoku-cell84 = "!=6.0.0"
+sudoku-cell94 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell25"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=1.0.0"
+sudoku-cell15 = "!=1.0.0"
+sudoku-cell16 = "!=1.0.0"
+sudoku-cell21 = "!=1.0.0"
+sudoku-cell22 = "!=1.0.0"
+sudoku-cell23 = "!=1.0.0"
+sudoku-cell24 = "!=1.0.0"
+sudoku-cell26 = "!=1.0.0"
+sudoku-cell27 = "!=1.0.0"
+sudoku-cell28 = "!=1.0.0"
+sudoku-cell29 = "!=1.0.0"
+sudoku-cell34 = "!=1.0.0"
+sudoku-cell35 = "!=1.0.0"
+sudoku-cell36 = "!=1.0.0"
+sudoku-cell45 = "!=1.0.0"
+sudoku-cell55 = "!=1.0.0"
+sudoku-cell65 = "!=1.0.0"
+sudoku-cell75 = "!=1.0.0"
+sudoku-cell85 = "!=1.0.0"
+sudoku-cell95 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell26"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=4.0.0"
+sudoku-cell15 = "!=4.0.0"
+sudoku-cell16 = "!=4.0.0"
+sudoku-cell21 = "!=4.0.0"
+sudoku-cell22 = "!=4.0.0"
+sudoku-cell23 = "!=4.0.0"
+sudoku-cell24 = "!=4.0.0"
+sudoku-cell25 = "!=4.0.0"
+sudoku-cell27 = "!=4.0.0"
+sudoku-cell28 = "!=4.0.0"
+sudoku-cell29 = "!=4.0.0"
+sudoku-cell34 = "!=4.0.0"
+sudoku-cell35 = "!=4.0.0"
+sudoku-cell36 = "!=4.0.0"
+sudoku-cell46 = "!=4.0.0"
+sudoku-cell56 = "!=4.0.0"
+sudoku-cell66 = "!=4.0.0"
+sudoku-cell76 = "!=4.0.0"
+sudoku-cell86 = "!=4.0.0"
+sudoku-cell96 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell27"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=8.0.0"
+sudoku-cell18 = "!=8.0.0"
+sudoku-cell19 = "!=8.0.0"
+sudoku-cell21 = "!=8.0.0"
+sudoku-cell22 = "!=8.0.0"
+sudoku-cell23 = "!=8.0.0"
+sudoku-cell24 = "!=8.0.0"
+sudoku-cell25 = "!=8.0.0"
+sudoku-cell26 = "!=8.0.0"
+sudoku-cell28 = "!=8.0.0"
+sudoku-cell29 = "!=8.0.0"
+sudoku-cell37 = "!=8.0.0"
+sudoku-cell38 = "!=8.0.0"
+sudoku-cell39 = "!=8.0.0"
+sudoku-cell47 = "!=8.0.0"
+sudoku-cell57 = "!=8.0.0"
+sudoku-cell67 = "!=8.0.0"
+sudoku-cell77 = "!=8.0.0"
+sudoku-cell87 = "!=8.0.0"
+sudoku-cell97 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell28"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=2.0.0"
+sudoku-cell18 = "!=2.0.0"
+sudoku-cell19 = "!=2.0.0"
+sudoku-cell21 = "!=2.0.0"
+sudoku-cell22 = "!=2.0.0"
+sudoku-cell23 = "!=2.0.0"
+sudoku-cell24 = "!=2.0.0"
+sudoku-cell25 = "!=2.0.0"
+sudoku-cell26 = "!=2.0.0"
+sudoku-cell27 = "!=2.0.0"
+sudoku-cell29 = "!=2.0.0"
+sudoku-cell37 = "!=2.0.0"
+sudoku-cell38 = "!=2.0.0"
+sudoku-cell39 = "!=2.0.0"
+sudoku-cell48 = "!=2.0.0"
+sudoku-cell58 = "!=2.0.0"
+sudoku-cell68 = "!=2.0.0"
+sudoku-cell78 = "!=2.0.0"
+sudoku-cell88 = "!=2.0.0"
+sudoku-cell98 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell29"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=5.0.0"
+sudoku-cell18 = "!=5.0.0"
+sudoku-cell19 = "!=5.0.0"
+sudoku-cell21 = "!=5.0.0"
+sudoku-cell22 = "!=5.0.0"
+sudoku-cell23 = "!=5.0.0"
+sudoku-cell24 = "!=5.0.0"
+sudoku-cell25 = "!=5.0.0"
+sudoku-cell26 = "!=5.0.0"
+sudoku-cell27 = "!=5.0.0"
+sudoku-cell28 = "!=5.0.0"
+sudoku-cell37 = "!=5.0.0"
+sudoku-cell38 = "!=5.0.0"
+sudoku-cell39 = "!=5.0.0"
+sudoku-cell49 = "!=5.0.0"
+sudoku-cell59 = "!=5.0.0"
+sudoku-cell69 = "!=5.0.0"
+sudoku-cell79 = "!=5.0.0"
+sudoku-cell89 = "!=5.0.0"
+sudoku-cell99 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell31"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=6.0.0"
+sudoku-cell12 = "!=6.0.0"
+sudoku-cell13 = "!=6.0.0"
+sudoku-cell21 = "!=6.0.0"
+sudoku-cell22 = "!=6.0.0"
+sudoku-cell23 = "!=6.0.0"
+sudoku-cell32 = "!=6.0.0"
+sudoku-cell33 = "!=6.0.0"
+sudoku-cell34 = "!=6.0.0"
+sudoku-cell35 = "!=6.0.0"
+sudoku-cell36 = "!=6.0.0"
+sudoku-cell37 = "!=6.0.0"
+sudoku-cell38 = "!=6.0.0"
+sudoku-cell39 = "!=6.0.0"
+sudoku-cell41 = "!=6.0.0"
+sudoku-cell51 = "!=6.0.0"
+sudoku-cell61 = "!=6.0.0"
+sudoku-cell71 = "!=6.0.0"
+sudoku-cell81 = "!=6.0.0"
+sudoku-cell91 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell32"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=5.0.0"
+sudoku-cell12 = "!=5.0.0"
+sudoku-cell13 = "!=5.0.0"
+sudoku-cell21 = "!=5.0.0"
+sudoku-cell22 = "!=5.0.0"
+sudoku-cell23 = "!=5.0.0"
+sudoku-cell31 = "!=5.0.0"
+sudoku-cell33 = "!=5.0.0"
+sudoku-cell34 = "!=5.0.0"
+sudoku-cell35 = "!=5.0.0"
+sudoku-cell36 = "!=5.0.0"
+sudoku-cell37 = "!=5.0.0"
+sudoku-cell38 = "!=5.0.0"
+sudoku-cell39 = "!=5.0.0"
+sudoku-cell42 = "!=5.0.0"
+sudoku-cell52 = "!=5.0.0"
+sudoku-cell62 = "!=5.0.0"
+sudoku-cell72 = "!=5.0.0"
+sudoku-cell82 = "!=5.0.0"
+sudoku-cell92 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell33"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=8.0.0"
+sudoku-cell12 = "!=8.0.0"
+sudoku-cell13 = "!=8.0.0"
+sudoku-cell21 = "!=8.0.0"
+sudoku-cell22 = "!=8.0.0"
+sudoku-cell23 = "!=8.0.0"
+sudoku-cell31 = "!=8.0.0"
+sudoku-cell32 = "!=8.0.0"
+sudoku-cell34 = "!=8.0.0"
+sudoku-cell35 = "!=8.0.0"
+sudoku-cell36 = "!=8.0.0"
+sudoku-cell37 = "!=8.0.0"
+sudoku-cell38 = "!=8.0.0"
+sudoku-cell39 = "!=8.0.0"
+sudoku-cell43 = "!=8.0.0"
+sudoku-cell53 = "!=8.0.0"
+sudoku-cell63 = "!=8.0.0"
+sudoku-cell73 = "!=8.0.0"
+sudoku-cell83 = "!=8.0.0"
+sudoku-cell93 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell34"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=2.0.0"
+sudoku-cell15 = "!=2.0.0"
+sudoku-cell16 = "!=2.0.0"
+sudoku-cell24 = "!=2.0.0"
+sudoku-cell25 = "!=2.0.0"
+sudoku-cell26 = "!=2.0.0"
+sudoku-cell31 = "!=2.0.0"
+sudoku-cell32 = "!=2.0.0"
+sudoku-cell33 = "!=2.0.0"
+sudoku-cell35 = "!=2.0.0"
+sudoku-cell36 = "!=2.0.0"
+sudoku-cell37 = "!=2.0.0"
+sudoku-cell38 = "!=2.0.0"
+sudoku-cell39 = "!=2.0.0"
+sudoku-cell44 = "!=2.0.0"
+sudoku-cell54 = "!=2.0.0"
+sudoku-cell64 = "!=2.0.0"
+sudoku-cell74 = "!=2.0.0"
+sudoku-cell84 = "!=2.0.0"
+sudoku-cell94 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell35"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=7.0.0"
+sudoku-cell15 = "!=7.0.0"
+sudoku-cell16 = "!=7.0.0"
+sudoku-cell24 = "!=7.0.0"
+sudoku-cell25 = "!=7.0.0"
+sudoku-cell26 = "!=7.0.0"
+sudoku-cell31 = "!=7.0.0"
+sudoku-cell32 = "!=7.0.0"
+sudoku-cell33 = "!=7.0.0"
+sudoku-cell34 = "!=7.0.0"
+sudoku-cell36 = "!=7.0.0"
+sudoku-cell37 = "!=7.0.0"
+sudoku-cell38 = "!=7.0.0"
+sudoku-cell39 = "!=7.0.0"
+sudoku-cell45 = "!=7.0.0"
+sudoku-cell55 = "!=7.0.0"
+sudoku-cell65 = "!=7.0.0"
+sudoku-cell75 = "!=7.0.0"
+sudoku-cell85 = "!=7.0.0"
+sudoku-cell95 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell36"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=3.0.0"
+sudoku-cell15 = "!=3.0.0"
+sudoku-cell16 = "!=3.0.0"
+sudoku-cell24 = "!=3.0.0"
+sudoku-cell25 = "!=3.0.0"
+sudoku-cell26 = "!=3.0.0"
+sudoku-cell31 = "!=3.0.0"
+sudoku-cell32 = "!=3.0.0"
+sudoku-cell33 = "!=3.0.0"
+sudoku-cell34 = "!=3.0.0"
+sudoku-cell35 = "!=3.0.0"
+sudoku-cell37 = "!=3.0.0"
+sudoku-cell38 = "!=3.0.0"
+sudoku-cell39 = "!=3.0.0"
+sudoku-cell46 = "!=3.0.0"
+sudoku-cell56 = "!=3.0.0"
+sudoku-cell66 = "!=3.0.0"
+sudoku-cell76 = "!=3.0.0"
+sudoku-cell86 = "!=3.0.0"
+sudoku-cell96 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell37"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=1.0.0"
+sudoku-cell18 = "!=1.0.0"
+sudoku-cell19 = "!=1.0.0"
+sudoku-cell27 = "!=1.0.0"
+sudoku-cell28 = "!=1.0.0"
+sudoku-cell29 = "!=1.0.0"
+sudoku-cell31 = "!=1.0.0"
+sudoku-cell32 = "!=1.0.0"
+sudoku-cell33 = "!=1.0.0"
+sudoku-cell34 = "!=1.0.0"
+sudoku-cell35 = "!=1.0.0"
+sudoku-cell36 = "!=1.0.0"
+sudoku-cell38 = "!=1.0.0"
+sudoku-cell39 = "!=1.0.0"
+sudoku-cell47 = "!=1.0.0"
+sudoku-cell57 = "!=1.0.0"
+sudoku-cell67 = "!=1.0.0"
+sudoku-cell77 = "!=1.0.0"
+sudoku-cell87 = "!=1.0.0"
+sudoku-cell97 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell38"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=4.0.0"
+sudoku-cell18 = "!=4.0.0"
+sudoku-cell19 = "!=4.0.0"
+sudoku-cell27 = "!=4.0.0"
+sudoku-cell28 = "!=4.0.0"
+sudoku-cell29 = "!=4.0.0"
+sudoku-cell31 = "!=4.0.0"
+sudoku-cell32 = "!=4.0.0"
+sudoku-cell33 = "!=4.0.0"
+sudoku-cell34 = "!=4.0.0"
+sudoku-cell35 = "!=4.0.0"
+sudoku-cell36 = "!=4.0.0"
+sudoku-cell37 = "!=4.0.0"
+sudoku-cell39 = "!=4.0.0"
+sudoku-cell48 = "!=4.0.0"
+sudoku-cell58 = "!=4.0.0"
+sudoku-cell68 = "!=4.0.0"
+sudoku-cell78 = "!=4.0.0"
+sudoku-cell88 = "!=4.0.0"
+sudoku-cell98 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell39"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=9.0.0"
+sudoku-cell18 = "!=9.0.0"
+sudoku-cell19 = "!=9.0.0"
+sudoku-cell27 = "!=9.0.0"
+sudoku-cell28 = "!=9.0.0"
+sudoku-cell29 = "!=9.0.0"
+sudoku-cell31 = "!=9.0.0"
+sudoku-cell32 = "!=9.0.0"
+sudoku-cell33 = "!=9.0.0"
+sudoku-cell34 = "!=9.0.0"
+sudoku-cell35 = "!=9.0.0"
+sudoku-cell36 = "!=9.0.0"
+sudoku-cell37 = "!=9.0.0"
+sudoku-cell38 = "!=9.0.0"
+sudoku-cell49 = "!=9.0.0"
+sudoku-cell59 = "!=9.0.0"
+sudoku-cell69 = "!=9.0.0"
+sudoku-cell79 = "!=9.0.0"
+sudoku-cell89 = "!=9.0.0"
+sudoku-cell99 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell41"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=9.0.0"
+sudoku-cell21 = "!=9.0.0"
+sudoku-cell31 = "!=9.0.0"
+sudoku-cell42 = "!=9.0.0"
+sudoku-cell43 = "!=9.0.0"
+sudoku-cell44 = "!=9.0.0"
+sudoku-cell45 = "!=9.0.0"
+sudoku-cell46 = "!=9.0.0"
+sudoku-cell47 = "!=9.0.0"
+sudoku-cell48 = "!=9.0.0"
+sudoku-cell49 = "!=9.0.0"
+sudoku-cell51 = "!=9.0.0"
+sudoku-cell52 = "!=9.0.0"
+sudoku-cell53 = "!=9.0.0"
+sudoku-cell61 = "!=9.0.0"
+sudoku-cell62 = "!=9.0.0"
+sudoku-cell63 = "!=9.0.0"
+sudoku-cell71 = "!=9.0.0"
+sudoku-cell81 = "!=9.0.0"
+sudoku-cell91 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell42"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=4.0.0"
+sudoku-cell22 = "!=4.0.0"
+sudoku-cell32 = "!=4.0.0"
+sudoku-cell41 = "!=4.0.0"
+sudoku-cell43 = "!=4.0.0"
+sudoku-cell44 = "!=4.0.0"
+sudoku-cell45 = "!=4.0.0"
+sudoku-cell46 = "!=4.0.0"
+sudoku-cell47 = "!=4.0.0"
+sudoku-cell48 = "!=4.0.0"
+sudoku-cell49 = "!=4.0.0"
+sudoku-cell51 = "!=4.0.0"
+sudoku-cell52 = "!=4.0.0"
+sudoku-cell53 = "!=4.0.0"
+sudoku-cell61 = "!=4.0.0"
+sudoku-cell62 = "!=4.0.0"
+sudoku-cell63 = "!=4.0.0"
+sudoku-cell72 = "!=4.0.0"
+sudoku-cell82 = "!=4.0.0"
+sudoku-cell92 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell43"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=5.0.0"
+sudoku-cell23 = "!=5.0.0"
+sudoku-cell33 = "!=5.0.0"
+sudoku-cell41 = "!=5.0.0"
+sudoku-cell42 = "!=5.0.0"
+sudoku-cell44 = "!=5.0.0"
+sudoku-cell45 = "!=5.0.0"
+sudoku-cell46 = "!=5.0.0"
+sudoku-cell47 = "!=5.0.0"
+sudoku-cell48 = "!=5.0.0"
+sudoku-cell49 = "!=5.0.0"
+sudoku-cell51 = "!=5.0.0"
+sudoku-cell52 = "!=5.0.0"
+sudoku-cell53 = "!=5.0.0"
+sudoku-cell61 = "!=5.0.0"
+sudoku-cell62 = "!=5.0.0"
+sudoku-cell63 = "!=5.0.0"
+sudoku-cell73 = "!=5.0.0"
+sudoku-cell83 = "!=5.0.0"
+sudoku-cell93 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell44"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=1.0.0"
+sudoku-cell24 = "!=1.0.0"
+sudoku-cell34 = "!=1.0.0"
+sudoku-cell41 = "!=1.0.0"
+sudoku-cell42 = "!=1.0.0"
+sudoku-cell43 = "!=1.0.0"
+sudoku-cell45 = "!=1.0.0"
+sudoku-cell46 = "!=1.0.0"
+sudoku-cell47 = "!=1.0.0"
+sudoku-cell48 = "!=1.0.0"
+sudoku-cell49 = "!=1.0.0"
+sudoku-cell54 = "!=1.0.0"
+sudoku-cell55 = "!=1.0.0"
+sudoku-cell56 = "!=1.0.0"
+sudoku-cell64 = "!=1.0.0"
+sudoku-cell65 = "!=1.0.0"
+sudoku-cell66 = "!=1.0.0"
+sudoku-cell74 = "!=1.0.0"
+sudoku-cell84 = "!=1.0.0"
+sudoku-cell94 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell45"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=6.0.0"
+sudoku-cell25 = "!=6.0.0"
+sudoku-cell35 = "!=6.0.0"
+sudoku-cell41 = "!=6.0.0"
+sudoku-cell42 = "!=6.0.0"
+sudoku-cell43 = "!=6.0.0"
+sudoku-cell44 = "!=6.0.0"
+sudoku-cell46 = "!=6.0.0"
+sudoku-cell47 = "!=6.0.0"
+sudoku-cell48 = "!=6.0.0"
+sudoku-cell49 = "!=6.0.0"
+sudoku-cell54 = "!=6.0.0"
+sudoku-cell55 = "!=6.0.0"
+sudoku-cell56 = "!=6.0.0"
+sudoku-cell64 = "!=6.0.0"
+sudoku-cell65 = "!=6.0.0"
+sudoku-cell66 = "!=6.0.0"
+sudoku-cell75 = "!=6.0.0"
+sudoku-cell85 = "!=6.0.0"
+sudoku-cell95 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell46"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=2.0.0"
+sudoku-cell26 = "!=2.0.0"
+sudoku-cell36 = "!=2.0.0"
+sudoku-cell41 = "!=2.0.0"
+sudoku-cell42 = "!=2.0.0"
+sudoku-cell43 = "!=2.0.0"
+sudoku-cell44 = "!=2.0.0"
+sudoku-cell45 = "!=2.0.0"
+sudoku-cell47 = "!=2.0.0"
+sudoku-cell48 = "!=2.0.0"
+sudoku-cell49 = "!=2.0.0"
+sudoku-cell54 = "!=2.0.0"
+sudoku-cell55 = "!=2.0.0"
+sudoku-cell56 = "!=2.0.0"
+sudoku-cell64 = "!=2.0.0"
+sudoku-cell65 = "!=2.0.0"
+sudoku-cell66 = "!=2.0.0"
+sudoku-cell76 = "!=2.0.0"
+sudoku-cell86 = "!=2.0.0"
+sudoku-cell96 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell47"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=7.0.0"
+sudoku-cell27 = "!=7.0.0"
+sudoku-cell37 = "!=7.0.0"
+sudoku-cell41 = "!=7.0.0"
+sudoku-cell42 = "!=7.0.0"
+sudoku-cell43 = "!=7.0.0"
+sudoku-cell44 = "!=7.0.0"
+sudoku-cell45 = "!=7.0.0"
+sudoku-cell46 = "!=7.0.0"
+sudoku-cell48 = "!=7.0.0"
+sudoku-cell49 = "!=7.0.0"
+sudoku-cell57 = "!=7.0.0"
+sudoku-cell58 = "!=7.0.0"
+sudoku-cell59 = "!=7.0.0"
+sudoku-cell67 = "!=7.0.0"
+sudoku-cell68 = "!=7.0.0"
+sudoku-cell69 = "!=7.0.0"
+sudoku-cell77 = "!=7.0.0"
+sudoku-cell87 = "!=7.0.0"
+sudoku-cell97 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell48"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=8.0.0"
+sudoku-cell28 = "!=8.0.0"
+sudoku-cell38 = "!=8.0.0"
+sudoku-cell41 = "!=8.0.0"
+sudoku-cell42 = "!=8.0.0"
+sudoku-cell43 = "!=8.0.0"
+sudoku-cell44 = "!=8.0.0"
+sudoku-cell45 = "!=8.0.0"
+sudoku-cell46 = "!=8.0.0"
+sudoku-cell47 = "!=8.0.0"
+sudoku-cell49 = "!=8.0.0"
+sudoku-cell57 = "!=8.0.0"
+sudoku-cell58 = "!=8.0.0"
+sudoku-cell59 = "!=8.0.0"
+sudoku-cell67 = "!=8.0.0"
+sudoku-cell68 = "!=8.0.0"
+sudoku-cell69 = "!=8.0.0"
+sudoku-cell78 = "!=8.0.0"
+sudoku-cell88 = "!=8.0.0"
+sudoku-cell98 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell49"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=3.0.0"
+sudoku-cell29 = "!=3.0.0"
+sudoku-cell39 = "!=3.0.0"
+sudoku-cell41 = "!=3.0.0"
+sudoku-cell42 = "!=3.0.0"
+sudoku-cell43 = "!=3.0.0"
+sudoku-cell44 = "!=3.0.0"
+sudoku-cell45 = "!=3.0.0"
+sudoku-cell46 = "!=3.0.0"
+sudoku-cell47 = "!=3.0.0"
+sudoku-cell48 = "!=3.0.0"
+sudoku-cell57 = "!=3.0.0"
+sudoku-cell58 = "!=3.0.0"
+sudoku-cell59 = "!=3.0.0"
+sudoku-cell67 = "!=3.0.0"
+sudoku-cell68 = "!=3.0.0"
+sudoku-cell69 = "!=3.0.0"
+sudoku-cell79 = "!=3.0.0"
+sudoku-cell89 = "!=3.0.0"
+sudoku-cell99 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell51"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=1.0.0"
+sudoku-cell21 = "!=1.0.0"
+sudoku-cell31 = "!=1.0.0"
+sudoku-cell41 = "!=1.0.0"
+sudoku-cell42 = "!=1.0.0"
+sudoku-cell43 = "!=1.0.0"
+sudoku-cell52 = "!=1.0.0"
+sudoku-cell53 = "!=1.0.0"
+sudoku-cell54 = "!=1.0.0"
+sudoku-cell55 = "!=1.0.0"
+sudoku-cell56 = "!=1.0.0"
+sudoku-cell57 = "!=1.0.0"
+sudoku-cell58 = "!=1.0.0"
+sudoku-cell59 = "!=1.0.0"
+sudoku-cell61 = "!=1.0.0"
+sudoku-cell62 = "!=1.0.0"
+sudoku-cell63 = "!=1.0.0"
+sudoku-cell71 = "!=1.0.0"
+sudoku-cell81 = "!=1.0.0"
+sudoku-cell91 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell52"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=3.0.0"
+sudoku-cell22 = "!=3.0.0"
+sudoku-cell32 = "!=3.0.0"
+sudoku-cell41 = "!=3.0.0"
+sudoku-cell42 = "!=3.0.0"
+sudoku-cell43 = "!=3.0.0"
+sudoku-cell51 = "!=3.0.0"
+sudoku-cell53 = "!=3.0.0"
+sudoku-cell54 = "!=3.0.0"
+sudoku-cell55 = "!=3.0.0"
+sudoku-cell56 = "!=3.0.0"
+sudoku-cell57 = "!=3.0.0"
+sudoku-cell58 = "!=3.0.0"
+sudoku-cell59 = "!=3.0.0"
+sudoku-cell61 = "!=3.0.0"
+sudoku-cell62 = "!=3.0.0"
+sudoku-cell63 = "!=3.0.0"
+sudoku-cell72 = "!=3.0.0"
+sudoku-cell82 = "!=3.0.0"
+sudoku-cell92 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell53"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=2.0.0"
+sudoku-cell23 = "!=2.0.0"
+sudoku-cell33 = "!=2.0.0"
+sudoku-cell41 = "!=2.0.0"
+sudoku-cell42 = "!=2.0.0"
+sudoku-cell43 = "!=2.0.0"
+sudoku-cell51 = "!=2.0.0"
+sudoku-cell52 = "!=2.0.0"
+sudoku-cell54 = "!=2.0.0"
+sudoku-cell55 = "!=2.0.0"
+sudoku-cell56 = "!=2.0.0"
+sudoku-cell57 = "!=2.0.0"
+sudoku-cell58 = "!=2.0.0"
+sudoku-cell59 = "!=2.0.0"
+sudoku-cell61 = "!=2.0.0"
+sudoku-cell62 = "!=2.0.0"
+sudoku-cell63 = "!=2.0.0"
+sudoku-cell73 = "!=2.0.0"
+sudoku-cell83 = "!=2.0.0"
+sudoku-cell93 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell54"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=7.0.0"
+sudoku-cell24 = "!=7.0.0"
+sudoku-cell34 = "!=7.0.0"
+sudoku-cell44 = "!=7.0.0"
+sudoku-cell45 = "!=7.0.0"
+sudoku-cell46 = "!=7.0.0"
+sudoku-cell51 = "!=7.0.0"
+sudoku-cell52 = "!=7.0.0"
+sudoku-cell53 = "!=7.0.0"
+sudoku-cell55 = "!=7.0.0"
+sudoku-cell56 = "!=7.0.0"
+sudoku-cell57 = "!=7.0.0"
+sudoku-cell58 = "!=7.0.0"
+sudoku-cell59 = "!=7.0.0"
+sudoku-cell64 = "!=7.0.0"
+sudoku-cell65 = "!=7.0.0"
+sudoku-cell66 = "!=7.0.0"
+sudoku-cell74 = "!=7.0.0"
+sudoku-cell84 = "!=7.0.0"
+sudoku-cell94 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell55"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=9.0.0"
+sudoku-cell25 = "!=9.0.0"
+sudoku-cell35 = "!=9.0.0"
+sudoku-cell44 = "!=9.0.0"
+sudoku-cell45 = "!=9.0.0"
+sudoku-cell46 = "!=9.0.0"
+sudoku-cell51 = "!=9.0.0"
+sudoku-cell52 = "!=9.0.0"
+sudoku-cell53 = "!=9.0.0"
+sudoku-cell54 = "!=9.0.0"
+sudoku-cell56 = "!=9.0.0"
+sudoku-cell57 = "!=9.0.0"
+sudoku-cell58 = "!=9.0.0"
+sudoku-cell59 = "!=9.0.0"
+sudoku-cell64 = "!=9.0.0"
+sudoku-cell65 = "!=9.0.0"
+sudoku-cell66 = "!=9.0.0"
+sudoku-cell75 = "!=9.0.0"
+sudoku-cell85 = "!=9.0.0"
+sudoku-cell95 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell56"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=8.0.0"
+sudoku-cell26 = "!=8.0.0"
+sudoku-cell36 = "!=8.0.0"
+sudoku-cell44 = "!=8.0.0"
+sudoku-cell45 = "!=8.0.0"
+sudoku-cell46 = "!=8.0.0"
+sudoku-cell51 = "!=8.0.0"
+sudoku-cell52 = "!=8.0.0"
+sudoku-cell53 = "!=8.0.0"
+sudoku-cell54 = "!=8.0.0"
+sudoku-cell55 = "!=8.0.0"
+sudoku-cell57 = "!=8.0.0"
+sudoku-cell58 = "!=8.0.0"
+sudoku-cell59 = "!=8.0.0"
+sudoku-cell64 = "!=8.0.0"
+sudoku-cell65 = "!=8.0.0"
+sudoku-cell66 = "!=8.0.0"
+sudoku-cell76 = "!=8.0.0"
+sudoku-cell86 = "!=8.0.0"
+sudoku-cell96 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell57"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=5.0.0"
+sudoku-cell27 = "!=5.0.0"
+sudoku-cell37 = "!=5.0.0"
+sudoku-cell47 = "!=5.0.0"
+sudoku-cell48 = "!=5.0.0"
+sudoku-cell49 = "!=5.0.0"
+sudoku-cell51 = "!=5.0.0"
+sudoku-cell52 = "!=5.0.0"
+sudoku-cell53 = "!=5.0.0"
+sudoku-cell54 = "!=5.0.0"
+sudoku-cell55 = "!=5.0.0"
+sudoku-cell56 = "!=5.0.0"
+sudoku-cell58 = "!=5.0.0"
+sudoku-cell59 = "!=5.0.0"
+sudoku-cell67 = "!=5.0.0"
+sudoku-cell68 = "!=5.0.0"
+sudoku-cell69 = "!=5.0.0"
+sudoku-cell77 = "!=5.0.0"
+sudoku-cell87 = "!=5.0.0"
+sudoku-cell97 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell58"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=6.0.0"
+sudoku-cell28 = "!=6.0.0"
+sudoku-cell38 = "!=6.0.0"
+sudoku-cell47 = "!=6.0.0"
+sudoku-cell48 = "!=6.0.0"
+sudoku-cell49 = "!=6.0.0"
+sudoku-cell51 = "!=6.0.0"
+sudoku-cell52 = "!=6.0.0"
+sudoku-cell53 = "!=6.0.0"
+sudoku-cell54 = "!=6.0.0"
+sudoku-cell55 = "!=6.0.0"
+sudoku-cell56 = "!=6.0.0"
+sudoku-cell57 = "!=6.0.0"
+sudoku-cell59 = "!=6.0.0"
+sudoku-cell67 = "!=6.0.0"
+sudoku-cell68 = "!=6.0.0"
+sudoku-cell69 = "!=6.0.0"
+sudoku-cell78 = "!=6.0.0"
+sudoku-cell88 = "!=6.0.0"
+sudoku-cell98 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell59"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=4.0.0"
+sudoku-cell29 = "!=4.0.0"
+sudoku-cell39 = "!=4.0.0"
+sudoku-cell47 = "!=4.0.0"
+sudoku-cell48 = "!=4.0.0"
+sudoku-cell49 = "!=4.0.0"
+sudoku-cell51 = "!=4.0.0"
+sudoku-cell52 = "!=4.0.0"
+sudoku-cell53 = "!=4.0.0"
+sudoku-cell54 = "!=4.0.0"
+sudoku-cell55 = "!=4.0.0"
+sudoku-cell56 = "!=4.0.0"
+sudoku-cell57 = "!=4.0.0"
+sudoku-cell58 = "!=4.0.0"
+sudoku-cell67 = "!=4.0.0"
+sudoku-cell68 = "!=4.0.0"
+sudoku-cell69 = "!=4.0.0"
+sudoku-cell79 = "!=4.0.0"
+sudoku-cell89 = "!=4.0.0"
+sudoku-cell99 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell61"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=8.0.0"
+sudoku-cell21 = "!=8.0.0"
+sudoku-cell31 = "!=8.0.0"
+sudoku-cell41 = "!=8.0.0"
+sudoku-cell42 = "!=8.0.0"
+sudoku-cell43 = "!=8.0.0"
+sudoku-cell51 = "!=8.0.0"
+sudoku-cell52 = "!=8.0.0"
+sudoku-cell53 = "!=8.0.0"
+sudoku-cell62 = "!=8.0.0"
+sudoku-cell63 = "!=8.0.0"
+sudoku-cell64 = "!=8.0.0"
+sudoku-cell65 = "!=8.0.0"
+sudoku-cell66 = "!=8.0.0"
+sudoku-cell67 = "!=8.0.0"
+sudoku-cell68 = "!=8.0.0"
+sudoku-cell69 = "!=8.0.0"
+sudoku-cell71 = "!=8.0.0"
+sudoku-cell81 = "!=8.0.0"
+sudoku-cell91 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell62"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=6.0.0"
+sudoku-cell22 = "!=6.0.0"
+sudoku-cell32 = "!=6.0.0"
+sudoku-cell41 = "!=6.0.0"
+sudoku-cell42 = "!=6.0.0"
+sudoku-cell43 = "!=6.0.0"
+sudoku-cell51 = "!=6.0.0"
+sudoku-cell52 = "!=6.0.0"
+sudoku-cell53 = "!=6.0.0"
+sudoku-cell61 = "!=6.0.0"
+sudoku-cell63 = "!=6.0.0"
+sudoku-cell64 = "!=6.0.0"
+sudoku-cell65 = "!=6.0.0"
+sudoku-cell66 = "!=6.0.0"
+sudoku-cell67 = "!=6.0.0"
+sudoku-cell68 = "!=6.0.0"
+sudoku-cell69 = "!=6.0.0"
+sudoku-cell72 = "!=6.0.0"
+sudoku-cell82 = "!=6.0.0"
+sudoku-cell92 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell63"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=7.0.0"
+sudoku-cell23 = "!=7.0.0"
+sudoku-cell33 = "!=7.0.0"
+sudoku-cell41 = "!=7.0.0"
+sudoku-cell42 = "!=7.0.0"
+sudoku-cell43 = "!=7.0.0"
+sudoku-cell51 = "!=7.0.0"
+sudoku-cell52 = "!=7.0.0"
+sudoku-cell53 = "!=7.0.0"
+sudoku-cell61 = "!=7.0.0"
+sudoku-cell62 = "!=7.0.0"
+sudoku-cell64 = "!=7.0.0"
+sudoku-cell65 = "!=7.0.0"
+sudoku-cell66 = "!=7.0.0"
+sudoku-cell67 = "!=7.0.0"
+sudoku-cell68 = "!=7.0.0"
+sudoku-cell69 = "!=7.0.0"
+sudoku-cell73 = "!=7.0.0"
+sudoku-cell83 = "!=7.0.0"
+sudoku-cell93 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell64"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=3.0.0"
+sudoku-cell24 = "!=3.0.0"
+sudoku-cell34 = "!=3.0.0"
+sudoku-cell44 = "!=3.0.0"
+sudoku-cell45 = "!=3.0.0"
+sudoku-cell46 = "!=3.0.0"
+sudoku-cell54 = "!=3.0.0"
+sudoku-cell55 = "!=3.0.0"
+sudoku-cell56 = "!=3.0.0"
+sudoku-cell61 = "!=3.0.0"
+sudoku-cell62 = "!=3.0.0"
+sudoku-cell63 = "!=3.0.0"
+sudoku-cell65 = "!=3.0.0"
+sudoku-cell66 = "!=3.0.0"
+sudoku-cell67 = "!=3.0.0"
+sudoku-cell68 = "!=3.0.0"
+sudoku-cell69 = "!=3.0.0"
+sudoku-cell74 = "!=3.0.0"
+sudoku-cell84 = "!=3.0.0"
+sudoku-cell94 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell65"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=4.0.0"
+sudoku-cell25 = "!=4.0.0"
+sudoku-cell35 = "!=4.0.0"
+sudoku-cell44 = "!=4.0.0"
+sudoku-cell45 = "!=4.0.0"
+sudoku-cell46 = "!=4.0.0"
+sudoku-cell54 = "!=4.0.0"
+sudoku-cell55 = "!=4.0.0"
+sudoku-cell56 = "!=4.0.0"
+sudoku-cell61 = "!=4.0.0"
+sudoku-cell62 = "!=4.0.0"
+sudoku-cell63 = "!=4.0.0"
+sudoku-cell64 = "!=4.0.0"
+sudoku-cell66 = "!=4.0.0"
+sudoku-cell67 = "!=4.0.0"
+sudoku-cell68 = "!=4.0.0"
+sudoku-cell69 = "!=4.0.0"
+sudoku-cell75 = "!=4.0.0"
+sudoku-cell85 = "!=4.0.0"
+sudoku-cell95 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell66"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=5.0.0"
+sudoku-cell26 = "!=5.0.0"
+sudoku-cell36 = "!=5.0.0"
+sudoku-cell44 = "!=5.0.0"
+sudoku-cell45 = "!=5.0.0"
+sudoku-cell46 = "!=5.0.0"
+sudoku-cell54 = "!=5.0.0"
+sudoku-cell55 = "!=5.0.0"
+sudoku-cell56 = "!=5.0.0"
+sudoku-cell61 = "!=5.0.0"
+sudoku-cell62 = "!=5.0.0"
+sudoku-cell63 = "!=5.0.0"
+sudoku-cell64 = "!=5.0.0"
+sudoku-cell65 = "!=5.0.0"
+sudoku-cell67 = "!=5.0.0"
+sudoku-cell68 = "!=5.0.0"
+sudoku-cell69 = "!=5.0.0"
+sudoku-cell76 = "!=5.0.0"
+sudoku-cell86 = "!=5.0.0"
+sudoku-cell96 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell67"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=9.0.0"
+sudoku-cell27 = "!=9.0.0"
+sudoku-cell37 = "!=9.0.0"
+sudoku-cell47 = "!=9.0.0"
+sudoku-cell48 = "!=9.0.0"
+sudoku-cell49 = "!=9.0.0"
+sudoku-cell57 = "!=9.0.0"
+sudoku-cell58 = "!=9.0.0"
+sudoku-cell59 = "!=9.0.0"
+sudoku-cell61 = "!=9.0.0"
+sudoku-cell62 = "!=9.0.0"
+sudoku-cell63 = "!=9.0.0"
+sudoku-cell64 = "!=9.0.0"
+sudoku-cell65 = "!=9.0.0"
+sudoku-cell66 = "!=9.0.0"
+sudoku-cell68 = "!=9.0.0"
+sudoku-cell69 = "!=9.0.0"
+sudoku-cell77 = "!=9.0.0"
+sudoku-cell87 = "!=9.0.0"
+sudoku-cell97 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell68"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=1.0.0"
+sudoku-cell28 = "!=1.0.0"
+sudoku-cell38 = "!=1.0.0"
+sudoku-cell47 = "!=1.0.0"
+sudoku-cell48 = "!=1.0.0"
+sudoku-cell49 = "!=1.0.0"
+sudoku-cell57 = "!=1.0.0"
+sudoku-cell58 = "!=1.0.0"
+sudoku-cell59 = "!=1.0.0"
+sudoku-cell61 = "!=1.0.0"
+sudoku-cell62 = "!=1.0.0"
+sudoku-cell63 = "!=1.0.0"
+sudoku-cell64 = "!=1.0.0"
+sudoku-cell65 = "!=1.0.0"
+sudoku-cell66 = "!=1.0.0"
+sudoku-cell67 = "!=1.0.0"
+sudoku-cell69 = "!=1.0.0"
+sudoku-cell78 = "!=1.0.0"
+sudoku-cell88 = "!=1.0.0"
+sudoku-cell98 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell69"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=2.0.0"
+sudoku-cell29 = "!=2.0.0"
+sudoku-cell39 = "!=2.0.0"
+sudoku-cell47 = "!=2.0.0"
+sudoku-cell48 = "!=2.0.0"
+sudoku-cell49 = "!=2.0.0"
+sudoku-cell57 = "!=2.0.0"
+sudoku-cell58 = "!=2.0.0"
+sudoku-cell59 = "!=2.0.0"
+sudoku-cell61 = "!=2.0.0"
+sudoku-cell62 = "!=2.0.0"
+sudoku-cell63 = "!=2.0.0"
+sudoku-cell64 = "!=2.0.0"
+sudoku-cell65 = "!=2.0.0"
+sudoku-cell66 = "!=2.0.0"
+sudoku-cell67 = "!=2.0.0"
+sudoku-cell68 = "!=2.0.0"
+sudoku-cell79 = "!=2.0.0"
+sudoku-cell89 = "!=2.0.0"
+sudoku-cell99 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell71"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=7.0.0"
+sudoku-cell21 = "!=7.0.0"
+sudoku-cell31 = "!=7.0.0"
+sudoku-cell41 = "!=7.0.0"
+sudoku-cell51 = "!=7.0.0"
+sudoku-cell61 = "!=7.0.0"
+sudoku-cell72 = "!=7.0.0"
+sudoku-cell73 = "!=7.0.0"
+sudoku-cell74 = "!=7.0.0"
+sudoku-cell75 = "!=7.0.0"
+sudoku-cell76 = "!=7.0.0"
+sudoku-cell77 = "!=7.0.0"
+sudoku-cell78 = "!=7.0.0"
+sudoku-cell79 = "!=7.0.0"
+sudoku-cell81 = "!=7.0.0"
+sudoku-cell82 = "!=7.0.0"
+sudoku-cell83 = "!=7.0.0"
+sudoku-cell91 = "!=7.0.0"
+sudoku-cell92 = "!=7.0.0"
+sudoku-cell93 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell72"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=8.0.0"
+sudoku-cell22 = "!=8.0.0"
+sudoku-cell32 = "!=8.0.0"
+sudoku-cell42 = "!=8.0.0"
+sudoku-cell52 = "!=8.0.0"
+sudoku-cell62 = "!=8.0.0"
+sudoku-cell71 = "!=8.0.0"
+sudoku-cell73 = "!=8.0.0"
+sudoku-cell74 = "!=8.0.0"
+sudoku-cell75 = "!=8.0.0"
+sudoku-cell76 = "!=8.0.0"
+sudoku-cell77 = "!=8.0.0"
+sudoku-cell78 = "!=8.0.0"
+sudoku-cell79 = "!=8.0.0"
+sudoku-cell81 = "!=8.0.0"
+sudoku-cell82 = "!=8.0.0"
+sudoku-cell83 = "!=8.0.0"
+sudoku-cell91 = "!=8.0.0"
+sudoku-cell92 = "!=8.0.0"
+sudoku-cell93 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell73"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=3.0.0"
+sudoku-cell23 = "!=3.0.0"
+sudoku-cell33 = "!=3.0.0"
+sudoku-cell43 = "!=3.0.0"
+sudoku-cell53 = "!=3.0.0"
+sudoku-cell63 = "!=3.0.0"
+sudoku-cell71 = "!=3.0.0"
+sudoku-cell72 = "!=3.0.0"
+sudoku-cell74 = "!=3.0.0"
+sudoku-cell75 = "!=3.0.0"
+sudoku-cell76 = "!=3.0.0"
+sudoku-cell77 = "!=3.0.0"
+sudoku-cell78 = "!=3.0.0"
+sudoku-cell79 = "!=3.0.0"
+sudoku-cell81 = "!=3.0.0"
+sudoku-cell82 = "!=3.0.0"
+sudoku-cell83 = "!=3.0.0"
+sudoku-cell91 = "!=3.0.0"
+sudoku-cell92 = "!=3.0.0"
+sudoku-cell93 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell74"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=9.0.0"
+sudoku-cell24 = "!=9.0.0"
+sudoku-cell34 = "!=9.0.0"
+sudoku-cell44 = "!=9.0.0"
+sudoku-cell54 = "!=9.0.0"
+sudoku-cell64 = "!=9.0.0"
+sudoku-cell71 = "!=9.0.0"
+sudoku-cell72 = "!=9.0.0"
+sudoku-cell73 = "!=9.0.0"
+sudoku-cell75 = "!=9.0.0"
+sudoku-cell76 = "!=9.0.0"
+sudoku-cell77 = "!=9.0.0"
+sudoku-cell78 = "!=9.0.0"
+sudoku-cell79 = "!=9.0.0"
+sudoku-cell84 = "!=9.0.0"
+sudoku-cell85 = "!=9.0.0"
+sudoku-cell86 = "!=9.0.0"
+sudoku-cell94 = "!=9.0.0"
+sudoku-cell95 = "!=9.0.0"
+sudoku-cell96 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell75"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=2.0.0"
+sudoku-cell25 = "!=2.0.0"
+sudoku-cell35 = "!=2.0.0"
+sudoku-cell45 = "!=2.0.0"
+sudoku-cell55 = "!=2.0.0"
+sudoku-cell65 = "!=2.0.0"
+sudoku-cell71 = "!=2.0.0"
+sudoku-cell72 = "!=2.0.0"
+sudoku-cell73 = "!=2.0.0"
+sudoku-cell74 = "!=2.0.0"
+sudoku-cell76 = "!=2.0.0"
+sudoku-cell77 = "!=2.0.0"
+sudoku-cell78 = "!=2.0.0"
+sudoku-cell79 = "!=2.0.0"
+sudoku-cell84 = "!=2.0.0"
+sudoku-cell85 = "!=2.0.0"
+sudoku-cell86 = "!=2.0.0"
+sudoku-cell94 = "!=2.0.0"
+sudoku-cell95 = "!=2.0.0"
+sudoku-cell96 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell76"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=1.0.0"
+sudoku-cell26 = "!=1.0.0"
+sudoku-cell36 = "!=1.0.0"
+sudoku-cell46 = "!=1.0.0"
+sudoku-cell56 = "!=1.0.0"
+sudoku-cell66 = "!=1.0.0"
+sudoku-cell71 = "!=1.0.0"
+sudoku-cell72 = "!=1.0.0"
+sudoku-cell73 = "!=1.0.0"
+sudoku-cell74 = "!=1.0.0"
+sudoku-cell75 = "!=1.0.0"
+sudoku-cell77 = "!=1.0.0"
+sudoku-cell78 = "!=1.0.0"
+sudoku-cell79 = "!=1.0.0"
+sudoku-cell84 = "!=1.0.0"
+sudoku-cell85 = "!=1.0.0"
+sudoku-cell86 = "!=1.0.0"
+sudoku-cell94 = "!=1.0.0"
+sudoku-cell95 = "!=1.0.0"
+sudoku-cell96 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell77"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=4.0.0"
+sudoku-cell27 = "!=4.0.0"
+sudoku-cell37 = "!=4.0.0"
+sudoku-cell47 = "!=4.0.0"
+sudoku-cell57 = "!=4.0.0"
+sudoku-cell67 = "!=4.0.0"
+sudoku-cell71 = "!=4.0.0"
+sudoku-cell72 = "!=4.0.0"
+sudoku-cell73 = "!=4.0.0"
+sudoku-cell74 = "!=4.0.0"
+sudoku-cell75 = "!=4.0.0"
+sudoku-cell76 = "!=4.0.0"
+sudoku-cell78 = "!=4.0.0"
+sudoku-cell79 = "!=4.0.0"
+sudoku-cell87 = "!=4.0.0"
+sudoku-cell88 = "!=4.0.0"
+sudoku-cell89 = "!=4.0.0"
+sudoku-cell97 = "!=4.0.0"
+sudoku-cell98 = "!=4.0.0"
+sudoku-cell99 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell78"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=5.0.0"
+sudoku-cell28 = "!=5.0.0"
+sudoku-cell38 = "!=5.0.0"
+sudoku-cell48 = "!=5.0.0"
+sudoku-cell58 = "!=5.0.0"
+sudoku-cell68 = "!=5.0.0"
+sudoku-cell71 = "!=5.0.0"
+sudoku-cell72 = "!=5.0.0"
+sudoku-cell73 = "!=5.0.0"
+sudoku-cell74 = "!=5.0.0"
+sudoku-cell75 = "!=5.0.0"
+sudoku-cell76 = "!=5.0.0"
+sudoku-cell77 = "!=5.0.0"
+sudoku-cell79 = "!=5.0.0"
+sudoku-cell87 = "!=5.0.0"
+sudoku-cell88 = "!=5.0.0"
+sudoku-cell89 = "!=5.0.0"
+sudoku-cell97 = "!=5.0.0"
+sudoku-cell98 = "!=5.0.0"
+sudoku-cell99 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell79"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=6.0.0"
+sudoku-cell29 = "!=6.0.0"
+sudoku-cell39 = "!=6.0.0"
+sudoku-cell49 = "!=6.0.0"
+sudoku-cell59 = "!=6.0.0"
+sudoku-cell69 = "!=6.0.0"
+sudoku-cell71 = "!=6.0.0"
+sudoku-cell72 = "!=6.0.0"
+sudoku-cell73 = "!=6.0.0"
+sudoku-cell74 = "!=6.0.0"
+sudoku-cell75 = "!=6.0.0"
+sudoku-cell76 = "!=6.0.0"
+sudoku-cell77 = "!=6.0.0"
+sudoku-cell78 = "!=6.0.0"
+sudoku-cell87 = "!=6.0.0"
+sudoku-cell88 = "!=6.0.0"
+sudoku-cell89 = "!=6.0.0"
+sudoku-cell97 = "!=6.0.0"
+sudoku-cell98 = "!=6.0.0"
+sudoku-cell99 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell81"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=2.0.0"
+sudoku-cell21 = "!=2.0.0"
+sudoku-cell31 = "!=2.0.0"
+sudoku-cell41 = "!=2.0.0"
+sudoku-cell51 = "!=2.0.0"
+sudoku-cell61 = "!=2.0.0"
+sudoku-cell71 = "!=2.0.0"
+sudoku-cell72 = "!=2.0.0"
+sudoku-cell73 = "!=2.0.0"
+sudoku-cell82 = "!=2.0.0"
+sudoku-cell83 = "!=2.0.0"
+sudoku-cell84 = "!=2.0.0"
+sudoku-cell85 = "!=2.0.0"
+sudoku-cell86 = "!=2.0.0"
+sudoku-cell87 = "!=2.0.0"
+sudoku-cell88 = "!=2.0.0"
+sudoku-cell89 = "!=2.0.0"
+sudoku-cell91 = "!=2.0.0"
+sudoku-cell92 = "!=2.0.0"
+sudoku-cell93 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell82"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=9.0.0"
+sudoku-cell22 = "!=9.0.0"
+sudoku-cell32 = "!=9.0.0"
+sudoku-cell42 = "!=9.0.0"
+sudoku-cell52 = "!=9.0.0"
+sudoku-cell62 = "!=9.0.0"
+sudoku-cell71 = "!=9.0.0"
+sudoku-cell72 = "!=9.0.0"
+sudoku-cell73 = "!=9.0.0"
+sudoku-cell81 = "!=9.0.0"
+sudoku-cell83 = "!=9.0.0"
+sudoku-cell84 = "!=9.0.0"
+sudoku-cell85 = "!=9.0.0"
+sudoku-cell86 = "!=9.0.0"
+sudoku-cell87 = "!=9.0.0"
+sudoku-cell88 = "!=9.0.0"
+sudoku-cell89 = "!=9.0.0"
+sudoku-cell91 = "!=9.0.0"
+sudoku-cell92 = "!=9.0.0"
+sudoku-cell93 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell83"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=4.0.0"
+sudoku-cell23 = "!=4.0.0"
+sudoku-cell33 = "!=4.0.0"
+sudoku-cell43 = "!=4.0.0"
+sudoku-cell53 = "!=4.0.0"
+sudoku-cell63 = "!=4.0.0"
+sudoku-cell71 = "!=4.0.0"
+sudoku-cell72 = "!=4.0.0"
+sudoku-cell73 = "!=4.0.0"
+sudoku-cell81 = "!=4.0.0"
+sudoku-cell82 = "!=4.0.0"
+sudoku-cell84 = "!=4.0.0"
+sudoku-cell85 = "!=4.0.0"
+sudoku-cell86 = "!=4.0.0"
+sudoku-cell87 = "!=4.0.0"
+sudoku-cell88 = "!=4.0.0"
+sudoku-cell89 = "!=4.0.0"
+sudoku-cell91 = "!=4.0.0"
+sudoku-cell92 = "!=4.0.0"
+sudoku-cell93 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell84"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=5.0.0"
+sudoku-cell24 = "!=5.0.0"
+sudoku-cell34 = "!=5.0.0"
+sudoku-cell44 = "!=5.0.0"
+sudoku-cell54 = "!=5.0.0"
+sudoku-cell64 = "!=5.0.0"
+sudoku-cell74 = "!=5.0.0"
+sudoku-cell75 = "!=5.0.0"
+sudoku-cell76 = "!=5.0.0"
+sudoku-cell81 = "!=5.0.0"
+sudoku-cell82 = "!=5.0.0"
+sudoku-cell83 = "!=5.0.0"
+sudoku-cell85 = "!=5.0.0"
+sudoku-cell86 = "!=5.0.0"
+sudoku-cell87 = "!=5.0.0"
+sudoku-cell88 = "!=5.0.0"
+sudoku-cell89 = "!=5.0.0"
+sudoku-cell94 = "!=5.0.0"
+sudoku-cell95 = "!=5.0.0"
+sudoku-cell96 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell85"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=8.0.0"
+sudoku-cell25 = "!=8.0.0"
+sudoku-cell35 = "!=8.0.0"
+sudoku-cell45 = "!=8.0.0"
+sudoku-cell55 = "!=8.0.0"
+sudoku-cell65 = "!=8.0.0"
+sudoku-cell74 = "!=8.0.0"
+sudoku-cell75 = "!=8.0.0"
+sudoku-cell76 = "!=8.0.0"
+sudoku-cell81 = "!=8.0.0"
+sudoku-cell82 = "!=8.0.0"
+sudoku-cell83 = "!=8.0.0"
+sudoku-cell84 = "!=8.0.0"
+sudoku-cell86 = "!=8.0.0"
+sudoku-cell87 = "!=8.0.0"
+sudoku-cell88 = "!=8.0.0"
+sudoku-cell89 = "!=8.0.0"
+sudoku-cell94 = "!=8.0.0"
+sudoku-cell95 = "!=8.0.0"
+sudoku-cell96 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell86"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=6.0.0"
+sudoku-cell26 = "!=6.0.0"
+sudoku-cell36 = "!=6.0.0"
+sudoku-cell46 = "!=6.0.0"
+sudoku-cell56 = "!=6.0.0"
+sudoku-cell66 = "!=6.0.0"
+sudoku-cell74 = "!=6.0.0"
+sudoku-cell75 = "!=6.0.0"
+sudoku-cell76 = "!=6.0.0"
+sudoku-cell81 = "!=6.0.0"
+sudoku-cell82 = "!=6.0.0"
+sudoku-cell83 = "!=6.0.0"
+sudoku-cell84 = "!=6.0.0"
+sudoku-cell85 = "!=6.0.0"
+sudoku-cell87 = "!=6.0.0"
+sudoku-cell88 = "!=6.0.0"
+sudoku-cell89 = "!=6.0.0"
+sudoku-cell94 = "!=6.0.0"
+sudoku-cell95 = "!=6.0.0"
+sudoku-cell96 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell87"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=3.0.0"
+sudoku-cell27 = "!=3.0.0"
+sudoku-cell37 = "!=3.0.0"
+sudoku-cell47 = "!=3.0.0"
+sudoku-cell57 = "!=3.0.0"
+sudoku-cell67 = "!=3.0.0"
+sudoku-cell77 = "!=3.0.0"
+sudoku-cell78 = "!=3.0.0"
+sudoku-cell79 = "!=3.0.0"
+sudoku-cell81 = "!=3.0.0"
+sudoku-cell82 = "!=3.0.0"
+sudoku-cell83 = "!=3.0.0"
+sudoku-cell84 = "!=3.0.0"
+sudoku-cell85 = "!=3.0.0"
+sudoku-cell86 = "!=3.0.0"
+sudoku-cell88 = "!=3.0.0"
+sudoku-cell89 = "!=3.0.0"
+sudoku-cell97 = "!=3.0.0"
+sudoku-cell98 = "!=3.0.0"
+sudoku-cell99 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell88"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=7.0.0"
+sudoku-cell28 = "!=7.0.0"
+sudoku-cell38 = "!=7.0.0"
+sudoku-cell48 = "!=7.0.0"
+sudoku-cell58 = "!=7.0.0"
+sudoku-cell68 = "!=7.0.0"
+sudoku-cell77 = "!=7.0.0"
+sudoku-cell78 = "!=7.0.0"
+sudoku-cell79 = "!=7.0.0"
+sudoku-cell81 = "!=7.0.0"
+sudoku-cell82 = "!=7.0.0"
+sudoku-cell83 = "!=7.0.0"
+sudoku-cell84 = "!=7.0.0"
+sudoku-cell85 = "!=7.0.0"
+sudoku-cell86 = "!=7.0.0"
+sudoku-cell87 = "!=7.0.0"
+sudoku-cell89 = "!=7.0.0"
+sudoku-cell97 = "!=7.0.0"
+sudoku-cell98 = "!=7.0.0"
+sudoku-cell99 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell89"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=1.0.0"
+sudoku-cell29 = "!=1.0.0"
+sudoku-cell39 = "!=1.0.0"
+sudoku-cell49 = "!=1.0.0"
+sudoku-cell59 = "!=1.0.0"
+sudoku-cell69 = "!=1.0.0"
+sudoku-cell77 = "!=1.0.0"
+sudoku-cell78 = "!=1.0.0"
+sudoku-cell79 = "!=1.0.0"
+sudoku-cell81 = "!=1.0.0"
+sudoku-cell82 = "!=1.0.0"
+sudoku-cell83 = "!=1.0.0"
+sudoku-cell84 = "!=1.0.0"
+sudoku-cell85 = "!=1.0.0"
+sudoku-cell86 = "!=1.0.0"
+sudoku-cell87 = "!=1.0.0"
+sudoku-cell88 = "!=1.0.0"
+sudoku-cell97 = "!=1.0.0"
+sudoku-cell98 = "!=1.0.0"
+sudoku-cell99 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell91"
+version = "5.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell11 = "!=5.0.0"
+sudoku-cell21 = "!=5.0.0"
+sudoku-cell31 = "!=5.0.0"
+sudoku-cell41 = "!=5.0.0"
+sudoku-cell51 = "!=5.0.0"
+sudoku-cell61 = "!=5.0.0"
+sudoku-cell71 = "!=5.0.0"
+sudoku-cell72 = "!=5.0.0"
+sudoku-cell73 = "!=5.0.0"
+sudoku-cell81 = "!=5.0.0"
+sudoku-cell82 = "!=5.0.0"
+sudoku-cell83 = "!=5.0.0"
+sudoku-cell92 = "!=5.0.0"
+sudoku-cell93 = "!=5.0.0"
+sudoku-cell94 = "!=5.0.0"
+sudoku-cell95 = "!=5.0.0"
+sudoku-cell96 = "!=5.0.0"
+sudoku-cell97 = "!=5.0.0"
+sudoku-cell98 = "!=5.0.0"
+sudoku-cell99 = "!=5.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell92"
+version = "1.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell12 = "!=1.0.0"
+sudoku-cell22 = "!=1.0.0"
+sudoku-cell32 = "!=1.0.0"
+sudoku-cell42 = "!=1.0.0"
+sudoku-cell52 = "!=1.0.0"
+sudoku-cell62 = "!=1.0.0"
+sudoku-cell71 = "!=1.0.0"
+sudoku-cell72 = "!=1.0.0"
+sudoku-cell73 = "!=1.0.0"
+sudoku-cell81 = "!=1.0.0"
+sudoku-cell82 = "!=1.0.0"
+sudoku-cell83 = "!=1.0.0"
+sudoku-cell91 = "!=1.0.0"
+sudoku-cell93 = "!=1.0.0"
+sudoku-cell94 = "!=1.0.0"
+sudoku-cell95 = "!=1.0.0"
+sudoku-cell96 = "!=1.0.0"
+sudoku-cell97 = "!=1.0.0"
+sudoku-cell98 = "!=1.0.0"
+sudoku-cell99 = "!=1.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell93"
+version = "6.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell13 = "!=6.0.0"
+sudoku-cell23 = "!=6.0.0"
+sudoku-cell33 = "!=6.0.0"
+sudoku-cell43 = "!=6.0.0"
+sudoku-cell53 = "!=6.0.0"
+sudoku-cell63 = "!=6.0.0"
+sudoku-cell71 = "!=6.0.0"
+sudoku-cell72 = "!=6.0.0"
+sudoku-cell73 = "!=6.0.0"
+sudoku-cell81 = "!=6.0.0"
+sudoku-cell82 = "!=6.0.0"
+sudoku-cell83 = "!=6.0.0"
+sudoku-cell91 = "!=6.0.0"
+sudoku-cell92 = "!=6.0.0"
+sudoku-cell94 = "!=6.0.0"
+sudoku-cell95 = "!=6.0.0"
+sudoku-cell96 = "!=6.0.0"
+sudoku-cell97 = "!=6.0.0"
+sudoku-cell98 = "!=6.0.0"
+sudoku-cell99 = "!=6.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell94"
+version = "4.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell14 = "!=4.0.0"
+sudoku-cell24 = "!=4.0.0"
+sudoku-cell34 = "!=4.0.0"
+sudoku-cell44 = "!=4.0.0"
+sudoku-cell54 = "!=4.0.0"
+sudoku-cell64 = "!=4.0.0"
+sudoku-cell74 = "!=4.0.0"
+sudoku-cell75 = "!=4.0.0"
+sudoku-cell76 = "!=4.0.0"
+sudoku-cell84 = "!=4.0.0"
+sudoku-cell85 = "!=4.0.0"
+sudoku-cell86 = "!=4.0.0"
+sudoku-cell91 = "!=4.0.0"
+sudoku-cell92 = "!=4.0.0"
+sudoku-cell93 = "!=4.0.0"
+sudoku-cell95 = "!=4.0.0"
+sudoku-cell96 = "!=4.0.0"
+sudoku-cell97 = "!=4.0.0"
+sudoku-cell98 = "!=4.0.0"
+sudoku-cell99 = "!=4.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell95"
+version = "3.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell15 = "!=3.0.0"
+sudoku-cell25 = "!=3.0.0"
+sudoku-cell35 = "!=3.0.0"
+sudoku-cell45 = "!=3.0.0"
+sudoku-cell55 = "!=3.0.0"
+sudoku-cell65 = "!=3.0.0"
+sudoku-cell74 = "!=3.0.0"
+sudoku-cell75 = "!=3.0.0"
+sudoku-cell76 = "!=3.0.0"
+sudoku-cell84 = "!=3.0.0"
+sudoku-cell85 = "!=3.0.0"
+sudoku-cell86 = "!=3.0.0"
+sudoku-cell91 = "!=3.0.0"
+sudoku-cell92 = "!=3.0.0"
+sudoku-cell93 = "!=3.0.0"
+sudoku-cell94 = "!=3.0.0"
+sudoku-cell96 = "!=3.0.0"
+sudoku-cell97 = "!=3.0.0"
+sudoku-cell98 = "!=3.0.0"
+sudoku-cell99 = "!=3.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell96"
+version = "7.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell16 = "!=7.0.0"
+sudoku-cell26 = "!=7.0.0"
+sudoku-cell36 = "!=7.0.0"
+sudoku-cell46 = "!=7.0.0"
+sudoku-cell56 = "!=7.0.0"
+sudoku-cell66 = "!=7.0.0"
+sudoku-cell74 = "!=7.0.0"
+sudoku-cell75 = "!=7.0.0"
+sudoku-cell76 = "!=7.0.0"
+sudoku-cell84 = "!=7.0.0"
+sudoku-cell85 = "!=7.0.0"
+sudoku-cell86 = "!=7.0.0"
+sudoku-cell91 = "!=7.0.0"
+sudoku-cell92 = "!=7.0.0"
+sudoku-cell93 = "!=7.0.0"
+sudoku-cell94 = "!=7.0.0"
+sudoku-cell95 = "!=7.0.0"
+sudoku-cell97 = "!=7.0.0"
+sudoku-cell98 = "!=7.0.0"
+sudoku-cell99 = "!=7.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell97"
+version = "2.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell17 = "!=2.0.0"
+sudoku-cell27 = "!=2.0.0"
+sudoku-cell37 = "!=2.0.0"
+sudoku-cell47 = "!=2.0.0"
+sudoku-cell57 = "!=2.0.0"
+sudoku-cell67 = "!=2.0.0"
+sudoku-cell77 = "!=2.0.0"
+sudoku-cell78 = "!=2.0.0"
+sudoku-cell79 = "!=2.0.0"
+sudoku-cell87 = "!=2.0.0"
+sudoku-cell88 = "!=2.0.0"
+sudoku-cell89 = "!=2.0.0"
+sudoku-cell91 = "!=2.0.0"
+sudoku-cell92 = "!=2.0.0"
+sudoku-cell93 = "!=2.0.0"
+sudoku-cell94 = "!=2.0.0"
+sudoku-cell95 = "!=2.0.0"
+sudoku-cell96 = "!=2.0.0"
+sudoku-cell98 = "!=2.0.0"
+sudoku-cell99 = "!=2.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell98"
+version = "9.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell18 = "!=9.0.0"
+sudoku-cell28 = "!=9.0.0"
+sudoku-cell38 = "!=9.0.0"
+sudoku-cell48 = "!=9.0.0"
+sudoku-cell58 = "!=9.0.0"
+sudoku-cell68 = "!=9.0.0"
+sudoku-cell77 = "!=9.0.0"
+sudoku-cell78 = "!=9.0.0"
+sudoku-cell79 = "!=9.0.0"
+sudoku-cell87 = "!=9.0.0"
+sudoku-cell88 = "!=9.0.0"
+sudoku-cell89 = "!=9.0.0"
+sudoku-cell91 = "!=9.0.0"
+sudoku-cell92 = "!=9.0.0"
+sudoku-cell93 = "!=9.0.0"
+sudoku-cell94 = "!=9.0.0"
+sudoku-cell95 = "!=9.0.0"
+sudoku-cell96 = "!=9.0.0"
+sudoku-cell97 = "!=9.0.0"
+sudoku-cell99 = "!=9.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[[package]]
+name = "sudoku-cell99"
+version = "8.0.0"
+description = ""
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+sudoku-cell19 = "!=8.0.0"
+sudoku-cell29 = "!=8.0.0"
+sudoku-cell39 = "!=8.0.0"
+sudoku-cell49 = "!=8.0.0"
+sudoku-cell59 = "!=8.0.0"
+sudoku-cell69 = "!=8.0.0"
+sudoku-cell77 = "!=8.0.0"
+sudoku-cell78 = "!=8.0.0"
+sudoku-cell79 = "!=8.0.0"
+sudoku-cell87 = "!=8.0.0"
+sudoku-cell88 = "!=8.0.0"
+sudoku-cell89 = "!=8.0.0"
+sudoku-cell91 = "!=8.0.0"
+sudoku-cell92 = "!=8.0.0"
+sudoku-cell93 = "!=8.0.0"
+sudoku-cell94 = "!=8.0.0"
+sudoku-cell95 = "!=8.0.0"
+sudoku-cell96 = "!=8.0.0"
+sudoku-cell97 = "!=8.0.0"
+sudoku-cell98 = "!=8.0.0"
+
+[package.source]
+type = "legacy"
+url = "http://localhost:3141/poetry/sudoku/+simple"
+reference = "devpi"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.6"
+content-hash = "0fc0640b506f23a391b395f38e6af0e67a0b56b59c34462be8c8afc5a0a6ce83"
+
+[metadata.files]
+sudoku-cell11 = [
+    {file = "sudoku_cell11-4.0.0-py3-none-any.whl", hash = "sha256:5359c1e1ff5c9510447b16ca07830793dedd214b09e9f083ea89012d3a28ab47"},
+]
+sudoku-cell12 = [
+    {file = "sudoku-cell12-2.0.0.tar.gz", hash = "sha256:a2ab2d443324f790631156ed9d54bbb58b350190db7528f5eb557321eded8834"},
+    {file = "sudoku_cell12-2.0.0-py3-none-any.whl", hash = "sha256:b9aa3956b27129aa2d9d323dad1fc1c8a4c57748c500feee5d8fa091698a9812"},
+]
+sudoku-cell13 = [
+    {file = "sudoku-cell13-1.0.0.tar.gz", hash = "sha256:b12d57ced1bb8fac18016d9721634d78ca031a4bfdb44802304a488b57e052f8"},
+    {file = "sudoku_cell13-1.0.0-py3-none-any.whl", hash = "sha256:4a8236a51283daa945f655cb3846cbf03b66d30aa813681e6db13d2efb7e8bdb"},
+]
+sudoku-cell14 = [
+    {file = "sudoku-cell14-8.0.0.tar.gz", hash = "sha256:00152d1d43920b0487748539b973bb1503d701532d7f2aa7253902693b9b983c"},
+    {file = "sudoku_cell14-8.0.0-py3-none-any.whl", hash = "sha256:494b2a05afe713d2bb48f99d49a8cfb5349ff9d018c79caa6ac34139f4222702"},
+]
+sudoku-cell15 = [
+    {file = "sudoku-cell15-5.0.0.tar.gz", hash = "sha256:1c463d0d1a1561035879d376fead34dda5ac5ac5ace8c91ddcebc538925a6315"},
+    {file = "sudoku_cell15-5.0.0-py3-none-any.whl", hash = "sha256:925d10c704e2a16b3247925e0120f3b80a71d090bf2d46107ec2539330325549"},
+]
+sudoku-cell16 = [
+    {file = "sudoku-cell16-9.0.0.tar.gz", hash = "sha256:c3d27adc35b5cef79d154ee949d830bc0ee52a0d929ef9734c170f5bed88cfdb"},
+    {file = "sudoku_cell16-9.0.0-py3-none-any.whl", hash = "sha256:4cc7ca62e9ceca2daaa07d7c2d1272c3c575da59238e3466075e7f94613422ef"},
+]
+sudoku-cell17 = [
+    {file = "sudoku-cell17-6.0.0.tar.gz", hash = "sha256:0d2a680ea135a34daaf424fc8e68aa8e0c2c504c9f8bb1ed4a28c5ec6a76813f"},
+    {file = "sudoku_cell17-6.0.0-py3-none-any.whl", hash = "sha256:05238f2fad248c110dc5948b9a903039f810d1537b0e9add4d07acc15a1cc179"},
+]
+sudoku-cell18 = [
+    {file = "sudoku-cell18-3.0.0.tar.gz", hash = "sha256:b25296181f8f688ea076bcaca0a8da6515a389a99433160a41a973c4cdc39d03"},
+    {file = "sudoku_cell18-3.0.0-py3-none-any.whl", hash = "sha256:929c7e88ee0471599b840513039abc205356e65c0a72f9f19c4f200f15d1f173"},
+]
+sudoku-cell19 = [
+    {file = "sudoku-cell19-7.0.0.tar.gz", hash = "sha256:d44f670540a05345a1eee456a04ada0eb2057bf828e89fd781f53df8a58fbfa6"},
+    {file = "sudoku_cell19-7.0.0-py3-none-any.whl", hash = "sha256:01d8f5dac31fe2c3f36a6dd2c78854b8dc3077588dd40b5d332ab0177569b0f3"},
+]
+sudoku-cell21 = [
+    {file = "sudoku-cell21-3.0.0.tar.gz", hash = "sha256:08481a63b3cd2ccd554627b9c8c4d189deba5c5b4a1b7cc170ecaed6d9e4ff86"},
+    {file = "sudoku_cell21-3.0.0-py3-none-any.whl", hash = "sha256:bcb4b9fd1e20061975020731048c7a5704aa1691a9ce67acbee66dde618ef11a"},
+]
+sudoku-cell22 = [
+    {file = "sudoku-cell22-7.0.0.tar.gz", hash = "sha256:bba1ee96f5d7758f687d5cfd7f44a251c0b7ea606b63d840acbd77eff751f885"},
+    {file = "sudoku_cell22-7.0.0-py3-none-any.whl", hash = "sha256:4fcfa497f6dfb52083fd0da264e39ad21e3dfaff662ad6ddb3fc07bdfe25b33e"},
+]
+sudoku-cell23 = [
+    {file = "sudoku-cell23-9.0.0.tar.gz", hash = "sha256:f599680308217db3038167046d035193741347cb448fdbc7fe78c5b2c60eb99d"},
+    {file = "sudoku_cell23-9.0.0-py3-none-any.whl", hash = "sha256:252a54d262096112299b451530fe8f0bcaeb723ec4630350f4cea53b4f4392db"},
+]
+sudoku-cell24 = [
+    {file = "sudoku-cell24-6.0.0.tar.gz", hash = "sha256:70ce16102a6ce4a1cf5efcb428e7cf50aeff6fe3141a195a2eaec54ee6202be5"},
+    {file = "sudoku_cell24-6.0.0-py3-none-any.whl", hash = "sha256:022a2056b5fb96d70cbd65bc47375e28bea43e7ad9a36bb448b42b18ede0dc0c"},
+]
+sudoku-cell25 = [
+    {file = "sudoku-cell25-1.0.0.tar.gz", hash = "sha256:3e3cc7d57d74f7d6644fb83b8531f7b410a425c96c944f2f92b7ad9b48a2b95b"},
+    {file = "sudoku_cell25-1.0.0-py3-none-any.whl", hash = "sha256:6193ac93108ac4c24e2ab0af4e9215c681556e23a21a8368b95ebf771b532f5d"},
+]
+sudoku-cell26 = [
+    {file = "sudoku-cell26-4.0.0.tar.gz", hash = "sha256:4d2785d5fcdf39f9637b50aa31788f89e6be1832b1733e4d5a87314fd28e3ea9"},
+    {file = "sudoku_cell26-4.0.0-py3-none-any.whl", hash = "sha256:c499cbba0ee9c59bdd1822c6f08845c2de39ff3147a4ac15efc47f1618f939fd"},
+]
+sudoku-cell27 = [
+    {file = "sudoku-cell27-8.0.0.tar.gz", hash = "sha256:d7644c3decf6360713ab15550da3ec642cb0daea68a66c377c3fb39eb9e14347"},
+    {file = "sudoku_cell27-8.0.0-py3-none-any.whl", hash = "sha256:c13dd66a45b7e0cb11368a7b932c5cb7306cb0d22b86a51ec679316de0cb55dd"},
+]
+sudoku-cell28 = [
+    {file = "sudoku-cell28-2.0.0.tar.gz", hash = "sha256:cde4b96764a222eff87448ccf4e042642c0a0d0fdc9d4fb1173ee3d9d7ed1cba"},
+    {file = "sudoku_cell28-2.0.0-py3-none-any.whl", hash = "sha256:475c0c6c538f1cec393bf503f559392fd8e19ddf4d7be99af007f85fec0a5920"},
+]
+sudoku-cell29 = [
+    {file = "sudoku-cell29-5.0.0.tar.gz", hash = "sha256:45e52cddc2ba06ea3853192cb136d972bca10f59609cbb005dcec6a1a6266d54"},
+    {file = "sudoku_cell29-5.0.0-py3-none-any.whl", hash = "sha256:86bf9252d39f225257da582b4e8b24c55132d4b0324007269254fc5cd8c1ca03"},
+]
+sudoku-cell31 = [
+    {file = "sudoku-cell31-6.0.0.tar.gz", hash = "sha256:3c45304a7605eb9cd7f098d53297f20186bf968e09b434d8d4bedf63304b310e"},
+    {file = "sudoku_cell31-6.0.0-py3-none-any.whl", hash = "sha256:6cb84f94cdafb25e063c1c4128990db5de22980c7d3becb2693a9e70dea0ceb7"},
+]
+sudoku-cell32 = [
+    {file = "sudoku-cell32-5.0.0.tar.gz", hash = "sha256:8ae6b2da7d62f1a672c7ead22a08e54e87e1a317cea196d0773cb0a4e4090471"},
+    {file = "sudoku_cell32-5.0.0-py3-none-any.whl", hash = "sha256:1ed2ba7955c40cb143c232b5078c7295833b2d922ea05f2b972823b965169eea"},
+]
+sudoku-cell33 = [
+    {file = "sudoku-cell33-8.0.0.tar.gz", hash = "sha256:7a4c48029c257083bad488ebbf02de5d095c82a60e9a466a91c338042760ff82"},
+    {file = "sudoku_cell33-8.0.0-py3-none-any.whl", hash = "sha256:ae30bee2722274b6cf7963528fb9ef85908baf42578aabdba31a2eeba302cfe3"},
+]
+sudoku-cell34 = [
+    {file = "sudoku-cell34-2.0.0.tar.gz", hash = "sha256:5058fcf2775fe19abb88d38b8f7e0942edbfe63cfc0bb9dd751f06760811180f"},
+    {file = "sudoku_cell34-2.0.0-py3-none-any.whl", hash = "sha256:b9fbde59f84d10fd53571a1c887a95e7b96ca65c2bae81c0be69808d4e60595a"},
+]
+sudoku-cell35 = [
+    {file = "sudoku-cell35-7.0.0.tar.gz", hash = "sha256:f44926610349f5476dfb4b3560528bbf58a3eff8510bf3f1eee8d8b992d2d847"},
+    {file = "sudoku_cell35-7.0.0-py3-none-any.whl", hash = "sha256:124f66adaf06cf08b990faf3de1d846b059227b437edd70d28d943784445b893"},
+]
+sudoku-cell36 = [
+    {file = "sudoku-cell36-3.0.0.tar.gz", hash = "sha256:7e75957bc21b69675aed8b88114919425ac50302ba25f03c8b9cf03cf8646869"},
+    {file = "sudoku_cell36-3.0.0-py3-none-any.whl", hash = "sha256:fea4c89c9999fcb308be6e045e6513da82d05157cf487578b97833aa6f2a5ba0"},
+]
+sudoku-cell37 = [
+    {file = "sudoku-cell37-1.0.0.tar.gz", hash = "sha256:e1cfc85875f5174ccf8b1a126c63fd84b35b9af51d6f59cc259afcfa1c41e275"},
+    {file = "sudoku_cell37-1.0.0-py3-none-any.whl", hash = "sha256:b74c0136f61685cec001c127152489d10d5d7931d035167c10fd7fadf9e0a8f9"},
+]
+sudoku-cell38 = [
+    {file = "sudoku-cell38-4.0.0.tar.gz", hash = "sha256:6a35b1439c6d5518bcb14f3d6e627151c2a7436486795711983cdb8f43c72343"},
+    {file = "sudoku_cell38-4.0.0-py3-none-any.whl", hash = "sha256:445076c3feb914341a50e64ead2561d54e32b2909acea452fe6e20f1f88c9217"},
+]
+sudoku-cell39 = [
+    {file = "sudoku-cell39-9.0.0.tar.gz", hash = "sha256:0faf7cc226d885a2ad5963b8dfb5ca631297ce366c61a169f1bff58850ca55e9"},
+    {file = "sudoku_cell39-9.0.0-py3-none-any.whl", hash = "sha256:602346bf861d1c920c7e93d4a93308755e5ceda4a833bc1e6d00c57249a6ff2c"},
+]
+sudoku-cell41 = [
+    {file = "sudoku-cell41-9.0.0.tar.gz", hash = "sha256:255c7aa248c6144140f099a4d614b2deaf67d502e08353e4f903e0c2fbf3358d"},
+    {file = "sudoku_cell41-9.0.0-py3-none-any.whl", hash = "sha256:19337ecfaa55a8065be7d04a905c5c3da97f62e2349f5cd0077c3a3e5ad52bc3"},
+]
+sudoku-cell42 = [
+    {file = "sudoku-cell42-4.0.0.tar.gz", hash = "sha256:d7afa37ae29fa330ec1d20a6f87059df74d7e451c7443b7484e2b67fa36c067e"},
+    {file = "sudoku_cell42-4.0.0-py3-none-any.whl", hash = "sha256:dc6819b1da31da646efe9180f643cb464969300bbaff6a10fc145b54187f346a"},
+]
+sudoku-cell43 = [
+    {file = "sudoku-cell43-5.0.0.tar.gz", hash = "sha256:53d63c905c2f73dc4700f1d1900372191252a02ad0b6b5fde5c8e5dc7b6e3efd"},
+    {file = "sudoku_cell43-5.0.0-py3-none-any.whl", hash = "sha256:3b91846c26d9e63fb4757bce060ac908d60c4887b3872f2b750b35fa0051b53c"},
+]
+sudoku-cell44 = [
+    {file = "sudoku-cell44-1.0.0.tar.gz", hash = "sha256:36e28549f60ea407ce06bae5dce8ef5200272375f3706bf8787096d4870b5f33"},
+    {file = "sudoku_cell44-1.0.0-py3-none-any.whl", hash = "sha256:6217c8dbef39c58612c1efc781102ede74469ad968ab0be241fea874e8d413e7"},
+]
+sudoku-cell45 = [
+    {file = "sudoku-cell45-6.0.0.tar.gz", hash = "sha256:cafe3cd2213aa7156be605273e80812ae1f28b232c17058a2ae6a1a758a930cb"},
+    {file = "sudoku_cell45-6.0.0-py3-none-any.whl", hash = "sha256:10e7d2db832ad111007d096f4dcb2e5a36b7dc17c144676a85f1e60ec491e61d"},
+]
+sudoku-cell46 = [
+    {file = "sudoku-cell46-2.0.0.tar.gz", hash = "sha256:7609a87d9adc532d3293da2d8ac234e87c6c1bf096ffb47d41c4c29e0e1c3199"},
+    {file = "sudoku_cell46-2.0.0-py3-none-any.whl", hash = "sha256:6bbb9ee0278cad113f8e7e273511ab50ac482118e3be9f04ef01d0c9ad2816db"},
+]
+sudoku-cell47 = [
+    {file = "sudoku-cell47-7.0.0.tar.gz", hash = "sha256:5081a1377e26220f6978c6a8a6279682c52edd50116336db764a662cfaec8204"},
+    {file = "sudoku_cell47-7.0.0-py3-none-any.whl", hash = "sha256:23ae09b208bc92d092bb227f9ae10333595bb9931fdcacd5c6cd7f8a199faebc"},
+]
+sudoku-cell48 = [
+    {file = "sudoku-cell48-8.0.0.tar.gz", hash = "sha256:3f373217b82ef3f297c5a74cda15870ad778d12ce9fdd94f7905730a9892b78e"},
+    {file = "sudoku_cell48-8.0.0-py3-none-any.whl", hash = "sha256:bea93217dc6112cce611f422bac73a80980f69557bb6272535f3e56b54b1e5de"},
+]
+sudoku-cell49 = [
+    {file = "sudoku-cell49-3.0.0.tar.gz", hash = "sha256:a1eb4e41e8eeef44611731d413aec6581fbb0ce02d0c54cf4e0cb9b2ddfe1206"},
+    {file = "sudoku_cell49-3.0.0-py3-none-any.whl", hash = "sha256:7a1d2efc3137f8faadf4194fa6674e795ec6a550f3528df7fdf11eb102ddffe0"},
+]
+sudoku-cell51 = [
+    {file = "sudoku-cell51-1.0.0.tar.gz", hash = "sha256:d1d84e4fe90063f7bf833720dd23a3608a14f28181ed8d1ffe3fdbad08f3ec67"},
+    {file = "sudoku_cell51-1.0.0-py3-none-any.whl", hash = "sha256:b2e832f7ad094063399e16bcba6a9cb87abb5513374916fed36e6a9f65dbced9"},
+]
+sudoku-cell52 = [
+    {file = "sudoku-cell52-3.0.0.tar.gz", hash = "sha256:fdfd058f0f403bf4b3fe3e061749ff0f0df504a4dff0cd81a52880393c66d346"},
+    {file = "sudoku_cell52-3.0.0-py3-none-any.whl", hash = "sha256:fcc0de3ac9fc5033574cfc8f1a1123b437368c4c584955318ef4e73ae907095c"},
+]
+sudoku-cell53 = [
+    {file = "sudoku-cell53-2.0.0.tar.gz", hash = "sha256:288929a3f3d04816c89f4a7ae062c263eb9bcd47cd314ec6e8483b73f65a1ff2"},
+    {file = "sudoku_cell53-2.0.0-py3-none-any.whl", hash = "sha256:7c2f2261a20376b4b893d1ba515334ac57ff478dbafba7ca3e48ac23df3a069a"},
+]
+sudoku-cell54 = [
+    {file = "sudoku-cell54-7.0.0.tar.gz", hash = "sha256:43386850acfc656713f23d558454bb0112d88e194522954689492ff2efa09603"},
+    {file = "sudoku_cell54-7.0.0-py3-none-any.whl", hash = "sha256:f7b2513bbb75ce513e499369462e630d15e18c95cab67649557c7ad05835bf0a"},
+]
+sudoku-cell55 = [
+    {file = "sudoku-cell55-9.0.0.tar.gz", hash = "sha256:4af16dfdd5d108ab0db2faa5600124a15098afa8d12f0f6d57605cb138a97dc0"},
+    {file = "sudoku_cell55-9.0.0-py3-none-any.whl", hash = "sha256:03416d181964d1ce315eb95b7e1a88a19a9b07e8268bf9549aa2447f5f964a9e"},
+]
+sudoku-cell56 = [
+    {file = "sudoku_cell56-8.0.0-py3-none-any.whl", hash = "sha256:4552ad4b019b264c13431c353bac1f8337a3608868187f29d52a35ef3f16388d"},
+]
+sudoku-cell57 = [
+    {file = "sudoku-cell57-5.0.0.tar.gz", hash = "sha256:7d8e74c9c53c1058c1effdabe424767f7773af65068df1171df5178519212c51"},
+    {file = "sudoku_cell57-5.0.0-py3-none-any.whl", hash = "sha256:9d2c048b86aaf1139e7b361640813cebd5ab19f04299d92e4c894d1e1f5c6c52"},
+]
+sudoku-cell58 = [
+    {file = "sudoku-cell58-6.0.0.tar.gz", hash = "sha256:486ec85fd8dfd9070b7718712e6fc0446ea1ad7f70309259c2f461427a2fe3cc"},
+    {file = "sudoku_cell58-6.0.0-py3-none-any.whl", hash = "sha256:98e7ca0ffe8d144ee42e1adeb9f42b713ab53eafd6d0e21ab6b751accf9bc9c0"},
+]
+sudoku-cell59 = [
+    {file = "sudoku-cell59-4.0.0.tar.gz", hash = "sha256:18d6068ab67f81e763e8fb472a261a5f4ed4f244bdc8b850666921b8a847c91a"},
+    {file = "sudoku_cell59-4.0.0-py3-none-any.whl", hash = "sha256:d66d7f05cb6ea342cf5d6f1ea03a2d396470449b23c9a3b12bc354b6e6bc87cb"},
+]
+sudoku-cell61 = [
+    {file = "sudoku-cell61-8.0.0.tar.gz", hash = "sha256:495f8f65bb087f6c69c08094c4862a92625bb1ec429dc70def9aa3f754bf59c2"},
+    {file = "sudoku_cell61-8.0.0-py3-none-any.whl", hash = "sha256:4f5d28156fb7e6c127e2adadd3d09b7e7ceec62d0750ac54d38ff074c2c99927"},
+]
+sudoku-cell62 = [
+    {file = "sudoku-cell62-6.0.0.tar.gz", hash = "sha256:fd89c712b87ea9ca2f408704db05290ab2a78d2240bd0e6195fe769c72c17c17"},
+    {file = "sudoku_cell62-6.0.0-py3-none-any.whl", hash = "sha256:6bffe886c31a8251760d737dfc2411f5c4903f7d3c2386c7513da14aa8611842"},
+]
+sudoku-cell63 = [
+    {file = "sudoku-cell63-7.0.0.tar.gz", hash = "sha256:447be3706f82d862095cee4f1e3316df044422d3528c09efbf4ab717f8fb1575"},
+    {file = "sudoku_cell63-7.0.0-py3-none-any.whl", hash = "sha256:36c61ac765ae6c6bd196748e6e566a4f3ad9d7d9712dc7d4d947933d318deec6"},
+]
+sudoku-cell64 = [
+    {file = "sudoku-cell64-3.0.0.tar.gz", hash = "sha256:a82631356e615eec3d2d3f676509733360f449a23243c02818417e164a8858b7"},
+    {file = "sudoku_cell64-3.0.0-py3-none-any.whl", hash = "sha256:90f62d32df7d3ae9b1aaf861239cc1bb75975149f51d3deeae551f5d34ca49b8"},
+]
+sudoku-cell65 = [
+    {file = "sudoku-cell65-4.0.0.tar.gz", hash = "sha256:3b6b9c4a3c422b880301b44deecd69a795cce6022285c024a142d7c7d3f0e709"},
+    {file = "sudoku_cell65-4.0.0-py3-none-any.whl", hash = "sha256:65531e294948d326b743a2d80dfa076b0aa94b99fedaeef31534c120c2dcad9c"},
+]
+sudoku-cell66 = [
+    {file = "sudoku-cell66-5.0.0.tar.gz", hash = "sha256:c5f4826b4144966a10abead609dbc50974d4431cc409c1296f69f563e351506f"},
+    {file = "sudoku_cell66-5.0.0-py3-none-any.whl", hash = "sha256:616092eb31ed708610f82db39377abf0e32c68e750a5cd4670b934f18a2eddf0"},
+]
+sudoku-cell67 = [
+    {file = "sudoku-cell67-9.0.0.tar.gz", hash = "sha256:4d6005b50334439f7c9f3b33a8cb3d83b6a3c9b6ced852824cfe036ef6c65ebe"},
+    {file = "sudoku_cell67-9.0.0-py3-none-any.whl", hash = "sha256:3932acdd66996f345c26dfd2dd7197bb64f843ce3f9af15f8b1f53bf947d745b"},
+]
+sudoku-cell68 = [
+    {file = "sudoku-cell68-1.0.0.tar.gz", hash = "sha256:817300d953b2f8244e558507470135ed2fe30142cecdda3b8a6202a205fb3ad2"},
+    {file = "sudoku_cell68-1.0.0-py3-none-any.whl", hash = "sha256:e5c69eb52aafab3140f5927cba941ac5c21ddec58a23406305e0959620f975e8"},
+]
+sudoku-cell69 = [
+    {file = "sudoku-cell69-2.0.0.tar.gz", hash = "sha256:65f47b5a87a1b6f31f24b83982d2b8d8e54ec2bf4d8f0b89c7448866a80ad9c8"},
+    {file = "sudoku_cell69-2.0.0-py3-none-any.whl", hash = "sha256:e64a15ac3975f23a52e432ce31c78d5810c210a7a5590483fcfe8ee3516dc609"},
+]
+sudoku-cell71 = [
+    {file = "sudoku-cell71-7.0.0.tar.gz", hash = "sha256:0356aa78c9ada08f30e5b0b27d03d08813137342dc21e65405c3e53efd53e1b6"},
+    {file = "sudoku_cell71-7.0.0-py3-none-any.whl", hash = "sha256:6a59f254e04625b0c91798ed1b12cc2af2857ba6b3fff3fc034486becf6fd640"},
+]
+sudoku-cell72 = [
+    {file = "sudoku-cell72-8.0.0.tar.gz", hash = "sha256:637850b5c067557400ba0577293f5b70904b6943287d9d0d08bf603865fccca3"},
+    {file = "sudoku_cell72-8.0.0-py3-none-any.whl", hash = "sha256:ac5ae74e5d0dfbf796ba83d98aed5cad1e1ea5a9da738b266f80389ae3b52aad"},
+]
+sudoku-cell73 = [
+    {file = "sudoku-cell73-3.0.0.tar.gz", hash = "sha256:2b3ef89cc0a16621fcb4929b997a20c5bb37521b37fe95dd8941739625415103"},
+    {file = "sudoku_cell73-3.0.0-py3-none-any.whl", hash = "sha256:b6812bdd715b46a481f230436ce229967599ef9eccac498e4c78177a2cb7fda0"},
+]
+sudoku-cell74 = [
+    {file = "sudoku-cell74-9.0.0.tar.gz", hash = "sha256:bbe03edeb6ba979a90b8e382ea37280de4df866924b82f18d8bd40355b10bb6e"},
+    {file = "sudoku_cell74-9.0.0-py3-none-any.whl", hash = "sha256:835aa02a8fb3da930ece969a7e632068bad5704d6dd2607997f354338dae6e7d"},
+]
+sudoku-cell75 = [
+    {file = "sudoku-cell75-2.0.0.tar.gz", hash = "sha256:8ce39790175e904f8b4c77bb1be10cc83da3169cc8fdd02fd897ee0422c12a86"},
+    {file = "sudoku_cell75-2.0.0-py3-none-any.whl", hash = "sha256:7cf5f6fb233bf0d3c045ef888f4cdf075e25a8357b5eb0b25cbcf63c52227e3c"},
+]
+sudoku-cell76 = [
+    {file = "sudoku-cell76-1.0.0.tar.gz", hash = "sha256:36975aa71a01f4fd75f86c9865ad813f8978b75208aa714bffc2fd705212c5a9"},
+    {file = "sudoku_cell76-1.0.0-py3-none-any.whl", hash = "sha256:fd69870fbca2519ab12f4aa36d4b55d2922c2209bddc927f03049af28ef1f43e"},
+]
+sudoku-cell77 = [
+    {file = "sudoku-cell77-4.0.0.tar.gz", hash = "sha256:e9c4b43cd1bdca502d3d2e0d194822cfae33afbf79afbd31dacfe675c90a8995"},
+    {file = "sudoku_cell77-4.0.0-py3-none-any.whl", hash = "sha256:040aa57572d8ae93d37e17fdbe515d7ce079dc1337ff4a672b0385869e8cfcd1"},
+]
+sudoku-cell78 = [
+    {file = "sudoku-cell78-5.0.0.tar.gz", hash = "sha256:fdca72984ec2a1cae2d7f08f30c338869e042de55e7e6240245d0cc25903ae2f"},
+    {file = "sudoku_cell78-5.0.0-py3-none-any.whl", hash = "sha256:1eb4c8c0b94d02b973cc32ea5e47acc8a44b796835499e16504e45b2451a8d9d"},
+]
+sudoku-cell79 = [
+    {file = "sudoku-cell79-6.0.0.tar.gz", hash = "sha256:21bc1fcdac4567d5fdbbdb48fbe2195e863faa5fd30dd9b722e4171b2bbc6121"},
+    {file = "sudoku_cell79-6.0.0-py3-none-any.whl", hash = "sha256:da6a197913342daaf10974696712d54b957465312647c31d6fc5bbbc6350a1c4"},
+]
+sudoku-cell81 = [
+    {file = "sudoku-cell81-2.0.0.tar.gz", hash = "sha256:63191368e7b435d62461458100747a9c36e7866651352079647d1abb61086594"},
+    {file = "sudoku_cell81-2.0.0-py3-none-any.whl", hash = "sha256:e939e442198d490f29cc2bf8dd4803468abf029cb4abf735c8de00a9cbc0d70a"},
+]
+sudoku-cell82 = [
+    {file = "sudoku-cell82-9.0.0.tar.gz", hash = "sha256:2d9dbc7c856081b260ca02dfc37a6eda5140e55ae76b512967946aede2641a44"},
+    {file = "sudoku_cell82-9.0.0-py3-none-any.whl", hash = "sha256:7e137b898e6c5f837eb98ba183be764235a02dcb561f0c107ff9c579ed90fb28"},
+]
+sudoku-cell83 = [
+    {file = "sudoku-cell83-4.0.0.tar.gz", hash = "sha256:572e3e34a42e631d740f06e01d96e0e2ba6a33a7a55d7cd076c190f232557176"},
+    {file = "sudoku_cell83-4.0.0-py3-none-any.whl", hash = "sha256:a81548c0373b8654ab2f91795a2ec947034ec5a482a6b87baae93475580e33f3"},
+]
+sudoku-cell84 = [
+    {file = "sudoku-cell84-5.0.0.tar.gz", hash = "sha256:4eb43bbf56e3980846c6f022d376ae2f15fda711a650854d418e2725763bb167"},
+    {file = "sudoku_cell84-5.0.0-py3-none-any.whl", hash = "sha256:b8b3971fb291ee6aa45bfe1ed62ce16779e0206c505ffd9301319508676400ba"},
+]
+sudoku-cell85 = [
+    {file = "sudoku-cell85-8.0.0.tar.gz", hash = "sha256:395c1107906633871702b234c0d8e6fd7d06bdb3c36ed134f606ede77795fe9a"},
+    {file = "sudoku_cell85-8.0.0-py3-none-any.whl", hash = "sha256:c0091549fbf2ece33afb1aee79be482d814ae21dbff8df1d428e37600a0afd25"},
+]
+sudoku-cell86 = [
+    {file = "sudoku-cell86-6.0.0.tar.gz", hash = "sha256:7ad370eb82aa676ecb3ad4fd74326733d416bebce0945f17d05a678207313160"},
+    {file = "sudoku_cell86-6.0.0-py3-none-any.whl", hash = "sha256:ffb01c558b928aaeefbb9e0e11b5688962f2d3f429d32cbb56233a01f1d583f7"},
+]
+sudoku-cell87 = [
+    {file = "sudoku-cell87-3.0.0.tar.gz", hash = "sha256:4275cb154b9776de479277d411be79734873be7dc9b82a0e8f96313ef1c26039"},
+    {file = "sudoku_cell87-3.0.0-py3-none-any.whl", hash = "sha256:8c9aca310c31c4e3dc65d9b5fefbc71afd3aa5f530937a1f26a2ec1a37706d4e"},
+]
+sudoku-cell88 = [
+    {file = "sudoku-cell88-7.0.0.tar.gz", hash = "sha256:83133d49bfecdd49a16388f7f2c72de2b82a537ec55eca9d63cc830537c4b1fe"},
+    {file = "sudoku_cell88-7.0.0-py3-none-any.whl", hash = "sha256:0e5f56b0a148a42c708be9272a54332450b43da76487184526784099e3b78a0c"},
+]
+sudoku-cell89 = [
+    {file = "sudoku-cell89-1.0.0.tar.gz", hash = "sha256:d2e232c85349bfd93441860cf9082ec3803223f746bc40a28e8fd6a66c140b4f"},
+    {file = "sudoku_cell89-1.0.0-py3-none-any.whl", hash = "sha256:34e03d615c539ac322b75f227f16f4e40bdb44f68caedde4c5aa7b54b739015d"},
+]
+sudoku-cell91 = [
+    {file = "sudoku-cell91-5.0.0.tar.gz", hash = "sha256:6482d716c319ea010865dfa6b58585a378640fd3043d82ba9c59bff0b74a7684"},
+    {file = "sudoku_cell91-5.0.0-py3-none-any.whl", hash = "sha256:59f61f9dedcb292bab44eb7e7c1e4264a33782b8894176a3acc1185f0dd552e5"},
+]
+sudoku-cell92 = [
+    {file = "sudoku-cell92-1.0.0.tar.gz", hash = "sha256:e5f5ef58e8fed34614f1ec597edf3cdcde0d162629c5302f624fc1b0aab330ba"},
+    {file = "sudoku_cell92-1.0.0-py3-none-any.whl", hash = "sha256:c43045b1497b56ab21a1a4241f4f253244e91999291a0d9cff28344b2ac9da61"},
+]
+sudoku-cell93 = [
+    {file = "sudoku-cell93-6.0.0.tar.gz", hash = "sha256:be0ddbedd0453b38b5fa2ead145d67a38b24317ff540ab9cdf133002ca510fba"},
+    {file = "sudoku_cell93-6.0.0-py3-none-any.whl", hash = "sha256:e36bd8cb8a436f894627300cacb26743aaa8d44e545e285ac1a3cb97efdc1be0"},
+]
+sudoku-cell94 = [
+    {file = "sudoku-cell94-4.0.0.tar.gz", hash = "sha256:0980b335ac13c9dcd95bd2270f073f7e8e6cc9cc2a6a01c54e393802a513e3e5"},
+    {file = "sudoku_cell94-4.0.0-py3-none-any.whl", hash = "sha256:07606d58ac378eaa52023c07b82267c5a26e8be8182c2dd886d964793a265c1b"},
+]
+sudoku-cell95 = [
+    {file = "sudoku-cell95-3.0.0.tar.gz", hash = "sha256:de373eaac62e328fefa34ebcd8e0014434c850a04188c5369cc756f3bd48eea3"},
+    {file = "sudoku_cell95-3.0.0-py3-none-any.whl", hash = "sha256:72ff299cdfb33fe09e94e7ab98bdd39c1f115e6b4904751aead74f2da40c59a6"},
+]
+sudoku-cell96 = [
+    {file = "sudoku-cell96-7.0.0.tar.gz", hash = "sha256:203543eec2e32d9cd5e941558da7e983a188ec5d8d18011a65617328989206e1"},
+    {file = "sudoku_cell96-7.0.0-py3-none-any.whl", hash = "sha256:9fac8f00919d6621213f9fb397a09b02a138b2f8841ed52fba0f25c9fa9b1033"},
+]
+sudoku-cell97 = [
+    {file = "sudoku-cell97-2.0.0.tar.gz", hash = "sha256:ba56ac52dc3d7663d66ea756f4046352422495a22c82b3034279812650a817b2"},
+    {file = "sudoku_cell97-2.0.0-py3-none-any.whl", hash = "sha256:b514f42a38abcfe097c828cd98c13f168a6a58073050f7b0fcd2baebeb5bcbc4"},
+]
+sudoku-cell98 = [
+    {file = "sudoku-cell98-9.0.0.tar.gz", hash = "sha256:795686e9cf83f7476922941bfcbca1aeed0892c22c0f5a35ef039e557af94770"},
+    {file = "sudoku_cell98-9.0.0-py3-none-any.whl", hash = "sha256:81b746b2031f05ec92e00559e0d5ae4b69a82507e8b8225a100e61c87189f103"},
+]
+sudoku-cell99 = [
+    {file = "sudoku-cell99-8.0.0.tar.gz", hash = "sha256:f14c6f964008a8a9cd55365ec42de05ead93e4460543c1ae5f9e9bf0660809b3"},
+    {file = "sudoku_cell99-8.0.0-py3-none-any.whl", hash = "sha256:edd93d9b924dd4297e4d23808f6d7cf1a61118e077a21fb2c4b0d6399a7b1459"},
+]
