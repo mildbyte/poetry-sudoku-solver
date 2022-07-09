@@ -1,6 +1,8 @@
 # poetry-sudoku-solver
 
-Sudoku solver that uses Poetry's dependency resolver
+Sudoku solver that uses Poetry's dependency resolver.
+
+Check reddit discussion [here](https://www.reddit.com/r/Python/comments/v7tazh/solving_sudoku_with_poetrys_dependency_resolver/) and explainer post [here](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku).
 
 ## How it works
 
