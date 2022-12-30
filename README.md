@@ -102,6 +102,7 @@ devpi-server
 Create a devpi user and add devpi to Poetry as a repository:
 
 ```bash
+devpi use http://127.0.0.1:3141/
 devpi user -c poetry password=poetry
 devpi login poetry --password=poetry
 poetry config repositories.devpi http://localhost:3141/poetry/sudoku
